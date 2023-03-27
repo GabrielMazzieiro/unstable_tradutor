@@ -1,14 +1,15 @@
 import { TopBar } from "../components"
 
-const HLDPage = () => {
+const UUPage = () => {
 
     return (
      <main>
         <TopBar/>
-        <p>HAPPY LITTLE DINOSAURS PAGE</p>
+        <p>UNSTABLE UNICORNS PAGE</p>
+
 
      </main>
     )
 }
 
-export default HLDPage
+export default UUPage

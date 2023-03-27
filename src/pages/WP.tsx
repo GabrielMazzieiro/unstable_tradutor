@@ -1,14 +1,15 @@
 import { TopBar } from "../components"
 
-const HLDPage = () => {
+const WPPage = () => {
 
     return (
      <main>
         <TopBar/>
-        <p>HAPPY LITTLE DINOSAURS PAGE</p>
+
+        <p>WRONG PARTY PAGE</p>
 
      </main>
     )
 }
 
-export default HLDPage
+export default WPPage
