@@ -11,42 +11,42 @@ const GameCards = () => {
         <div className="row row-cols-1 row-cols-2 row-cols-md-3 gy-4">
             <div className='col'>
                 <div className="card">
-                    <a href='#'>
+                    <a href='/uu'>
                         <img src={unstable_unicorn_logo} className="card-img-top" alt="Untable Unicorns"/>
                     </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <a href='#'>
+                    <a href='/hts'>
                         <img src={here_to_slay_logo} className="card-img-top" alt="Here To Slay"/>
                     </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <a href='#'>
+                    <a href='/hld'>
                         <img src={happy_little_dinosaurs_logo} className="card-img-top" alt="Happy Little Dinosaurs"/>
                     </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <a href='#'>
+                    <a href='llu'>
                         <img src={llamas_unleashed_logo} className="card-img-top" alt="Llamas Unleashed"/>
                     </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <a href='#'>
+                    <a href='/wp'>
                         <img src={wrong_party_logo} className="card-img-top" alt="Wrong Party"/>
                     </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <a href='#'>
+                    <a href='/ttko'>
                         <img src={tic_tac_ko} className="card-img-top" alt="Tic Tac K.O"/>
                     </a>
                 </div>

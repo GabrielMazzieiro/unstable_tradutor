@@ -1,2 +1,7 @@
 export { default as HLDPage } from  './HLD'
 export { default as Home } from  './Home'
+export { default as HTSPage } from  './HTS'
+export { default as LLUPage } from  './LLU'
+export { default as UUPage } from  './UU'
+export { default as TTKOPage } from  './TTKO'
+export { default as WPPage } from  './WP'
