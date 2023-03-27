@@ -1,42 +1,69 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;700&display=swap');
+
+/* Theme */
+
+:root {
+  --color-primary: #9d65ff;
+  --color-secondary: #dda2f6;
+  --color-highlight: #58ebd7;
+  --color-danger: #ff206e;
+  --color-light: #fff;
+/* dark shades */
+  --color-shade: #556;
+  --color-darkisht: #223;
+  --color-dark: #112;
+  --color-darkest: #001;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+.gradient {
+  background: -webkit-linear-gradient(
+    bottom,
+    var(--color-primary),
+    var(--color-highlight)
+  )
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.gradient.text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.gradient.alternate {
+  background: -webkit-linear-gradient(
+    bottom,
+    var(--color-danger),
+    var(--color-secondary)
+  )
 }
 
-.card {
-  padding: 2em;
+/* Base Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
 }
 
-.read-the-docs {
-  color: #888;
+body {
+  font-size: 2rem;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 2rem;
+  align-items: center;
+  /* height: 100svh; */
+  width: 100%;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
