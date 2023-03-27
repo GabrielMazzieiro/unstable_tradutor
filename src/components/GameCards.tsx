@@ -11,32 +11,44 @@ const GameCards = () => {
         <div className="row row-cols-1 row-cols-2 row-cols-md-3 gy-4">
             <div className='col'>
                 <div className="card">
-                    <img src={unstable_unicorn_logo} className="card-img-top" alt="teste"/>
+                    <a href='#'>
+                        <img src={unstable_unicorn_logo} className="card-img-top" alt="Untable Unicorns"/>
+                    </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <img src={here_to_slay_logo} className="card-img-top" alt="teste"/>
+                    <a href='#'>
+                        <img src={here_to_slay_logo} className="card-img-top" alt="Here To Slay"/>
+                    </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <img src={happy_little_dinosaurs_logo} className="card-img-top" alt="teste"/>
+                    <a href='#'>
+                        <img src={happy_little_dinosaurs_logo} className="card-img-top" alt="Happy Little Dinosaurs"/>
+                    </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <img src={llamas_unleashed_logo} className="card-img-top" alt="teste"/>
+                    <a href='#'>
+                        <img src={llamas_unleashed_logo} className="card-img-top" alt="Llamas Unleashed"/>
+                    </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <img src={wrong_party_logo} className="card-img-top" alt="teste"/>
+                    <a href='#'>
+                        <img src={wrong_party_logo} className="card-img-top" alt="Wrong Party"/>
+                    </a>
                 </div>
             </div>
             <div className='col'>
                 <div className="card" >
-                    <img src={tic_tac_ko} className="card-img-top" alt="teste"/>
+                    <a href='#'>
+                        <img src={tic_tac_ko} className="card-img-top" alt="Tic Tac K.O"/>
+                    </a>
                 </div>
             </div>
         </div>
