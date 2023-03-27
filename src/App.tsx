@@ -1,19 +1,18 @@
+import { Routes, Route } from 'react-router-dom'
 import './App.css'
-import {GameCards, TopBar} from './components'
+import { Home, HLDPage } from './pages'
+
+
 
 
 function App() {
 
   return (
-    <main>
-      <TopBar/>
-      <div>
-        <h1>Welcome to Unstable Tradutor!!</h1>
-        <p>This webpage was made to help people translate unstable games`s games</p>
-        <p>Choose our game!</p>
-      </div>
-      <GameCards/>
-    </main>
+    <Routes>
+      <Route path="/" element={<Home/>}/>
+      <Route path="/hld" element={<HLDPage/>}/>
+
+    </Routes>
   )
 }
 
