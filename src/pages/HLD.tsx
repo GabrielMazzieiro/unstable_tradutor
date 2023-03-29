@@ -1,4 +1,5 @@
-import { TopBar } from "../components"
+import { CardModal, TopBar } from "../components"
+import ShowCards from "../components/ShowCards"
 
 const HLDPage = () => {
 
@@ -6,6 +7,7 @@ const HLDPage = () => {
      <main>
         <TopBar/>
         <p>HAPPY LITTLE DINOSAURS PAGE</p>
+        <ShowCards/>
 
      </main>
     )
