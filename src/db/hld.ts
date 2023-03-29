@@ -17,7 +17,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "The tiny dinos looked adorable until they threatened to kill you and your family."
+        "card_flavor": "The tiny dinos looked adorable until they threatened to kill you and your family.",
+        "card_effect": ""
     },
     {
         "card_id": 3,
@@ -26,7 +27,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You try to cut your own hair. You watch as your self-esteem falls to the floor."
+        "card_flavor": "You try to cut your own hair. You watch as your self-esteem falls to the floor.",
+        "card_effect": ""
     },
     {
         "card_id": 4,
@@ -35,7 +37,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "The sun isn't actually that bright, they said. You proved them wrong."
+        "card_flavor": "The sun isn't actually that bright, they said. You proved them wrong.",
+        "card_effect": ""
     },
     {
         "card_id": 5,
@@ -44,7 +47,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You are hiking a volcano that's been dormant for thousands of years. It erupts."
+        "card_flavor": "You are hiking a volcano that's been dormant for thousands of years. It erupts.",
+        "card_effect": ""
     },
     {
         "card_id": 6,
@@ -53,7 +57,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "When it rains, it pours...but only on you."
+        "card_flavor": "When it rains, it pours...but only on you.",
+        "card_effect": ""
     },
     {
         "card_id": 7,
@@ -62,7 +67,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Looks like your ex is better off without you after all..."
+        "card_flavor": "Looks like your ex is better off without you after all...",
+        "card_effect": ""
     },
     {
         "card_id": 8,
@@ -71,7 +77,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Life is going great!... Just kidding of course. You are attacked by sabertoothed squirrels."
+        "card_flavor": "Life is going great!... Just kidding of course. You are attacked by sabertoothed squirrels.",
+        "card_effect": ""
     },
     {
         "card_id": 9,
@@ -80,7 +87,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Prehistoric fire ants unleash their wrath on you for taking a nap on their hill."
+        "card_flavor": "Prehistoric fire ants unleash their wrath on you for taking a nap on their hill.",
+        "card_effect": ""
     },
     {
         "card_id": 10,
@@ -89,7 +97,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You get ghosted by your dino date. 'They must actually be dead,' you say to yourself as your tears salt your dinner for one."
+        "card_flavor": "You get ghosted by your dino date. 'They must actually be dead,' you say to yourself as your tears salt your dinner for one.",
+        "card_effect": ""
     },
     {
         "card_id": 11,
@@ -98,7 +107,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You get cut by a particularly sharp leaf."
+        "card_flavor": "You get cut by a particularly sharp leaf.",
+        "card_effect": ""
     },
     {
         "card_id": 12,
@@ -107,7 +117,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Your friends plan a road trip without you. The exhaust fumes hit you as they drive away."
+        "card_flavor": "Your friends plan a road trip without you. The exhaust fumes hit you as they drive away.",
+        "card_effect": ""
     },
     {
         "card_id": 13,
@@ -116,7 +127,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Maybe next time you should think twice before babysitting a carnivore."
+        "card_flavor": "Maybe next time you should think twice before babysitting a carnivore.",
+        "card_effect": ""
     },
     {
         "card_id": 14,
@@ -125,7 +137,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "All you want is to be loved. A boa constrictor gives you a 'hug.' You're thrilled."
+        "card_flavor": "All you want is to be loved. A boa constrictor gives you a 'hug.' You're thrilled.",
+        "card_effect": ""
     },
     {
         "card_id": 15,
@@ -134,6 +147,7 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "This card acts as any type of Disaster card."
     },
     {
@@ -143,7 +157,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "The cookies you were looking forward to all day burned to a crisp."
+        "card_flavor": "The cookies you were looking forward to all day burned to a crisp.",
+        "card_effect": ""
     },
     {
         "card_id": 17,
@@ -152,7 +167,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Are the other dinosaurs really talking about you? Yes."
+        "card_flavor": "Are the other dinosaurs really talking about you? Yes.",
+        "card_effect": ""
     },
     {
         "card_id": 18,
@@ -161,7 +177,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Just your average day, running in horror from a FREAKING LAND SHARK."
+        "card_flavor": "Just your average day, running in horror from a FREAKING LAND SHARK.",
+        "card_effect": ""
     },
     {
         "card_id": 19,
@@ -170,7 +187,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Your relaxing spa day turns into tragedy as you start to sink in hot tar."
+        "card_flavor": "Your relaxing spa day turns into tragedy as you start to sink in hot tar.",
+        "card_effect": ""
     },
     {
         "card_id": 20,
@@ -179,7 +197,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You're crushed by a mega dino and your herd awkwardly walks away."
+        "card_flavor": "You're crushed by a mega dino and your herd awkwardly walks away.",
+        "card_effect": ""
     },
     {
         "card_id": 21,
@@ -188,7 +207,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You visit a fortune teller and the crystal ball explodes...that can't be a good sign."
+        "card_flavor": "You visit a fortune teller and the crystal ball explodes...that can't be a good sign.",
+        "card_effect": ""
     },
     {
         "card_id": 22,
@@ -197,7 +217,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "You lie awake at night thinking about how much of a disappointment you are."
+        "card_flavor": "You lie awake at night thinking about how much of a disappointment you are.",
+        "card_effect": ""
     },
     {
         "card_id": 23,
@@ -206,7 +227,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "A small earthquake hits that seems to have happened only under you. You fall through a crack in the earth."
+        "card_flavor": "A small earthquake hits that seems to have happened only under you. You fall through a crack in the earth.",
+        "card_effect": ""
     },
     {
         "card_id": 24,
@@ -215,7 +237,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "If a tree falls on you in a forest and no one is around to save you, is this your new life now?"
+        "card_flavor": "If a tree falls on you in a forest and no one is around to save you, is this your new life now?",
+        "card_effect": ""
     },
     {
         "card_id": 25,
@@ -224,7 +247,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Is it just a cough...or are you secretly dying? Time to start panicking."
+        "card_flavor": "Is it just a cough...or are you secretly dying? Time to start panicking.",
+        "card_effect": ""
     },
     {
         "card_id": 26,
@@ -233,6 +257,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -242,6 +267,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -251,6 +277,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -260,6 +287,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may discard a Point card with an effect from your hand, then add its point value to your score this round."
     },
     {
@@ -269,6 +297,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may look at another player's hand. Choose a card and add it to your hand."
     },
     {
@@ -278,6 +307,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may discard up to 3 cards from your hand."
     },
     {
@@ -287,6 +317,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "During this round, all other Point card effects are ignored."
     },
     {
@@ -296,6 +327,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may swap this card with the Point card of the player to your right or left. You cannot swap for a card that has an effect."
     },
     {
@@ -305,6 +337,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -314,6 +347,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -323,6 +357,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -332,6 +367,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may swap the Point cards of any two other players."
     },
     {
@@ -341,6 +377,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -350,6 +387,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -359,6 +397,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "During scoring this round, switch the score of the highest-scoring player with the score of the lowest-scoring player after scores have been calculated."
     },
     {
@@ -368,6 +407,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may discard a Point card from your hand, then add its point value to your score this round."
     },
     {
@@ -377,6 +417,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "Fruit During scoring this round, double the effects of Score Booster and Score Sapper cards."
     },
     {
@@ -386,6 +427,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": ""
     },
     {
@@ -395,6 +437,7 @@ export const hdlCards = [
         "card_type": "Point Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "You may look at the top 2 cards in the deck. Choose a card and add it to your hand. Discard the other card."
     },
     {
@@ -404,6 +447,7 @@ export const hdlCards = [
         "card_type": "Instant Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "Disaster Insurance Play this card if you would add a Disaster card to your Disaster Area this round. Move that Disaster card to the bottom of the Disaster deck instead."
     },
     {
@@ -413,6 +457,7 @@ export const hdlCards = [
         "card_type": "Instant Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "Play this card if you would add a Disaster card to your Disaster Area this round. Add that Disaster card to another player's Disaster Area instead."
     },
     {
@@ -422,6 +467,7 @@ export const hdlCards = [
         "card_type": "Instant Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "Play this card during scoring. Add 2 points to any player's score this round."
     },
     {
@@ -431,6 +477,7 @@ export const hdlCards = [
         "card_type": "Instant Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "Play this card during scoring. Switch the score of the highest-scoring player with the score of the lowest-scoring player after scores have been calculated."
     },
     {
@@ -440,6 +487,7 @@ export const hdlCards = [
         "card_type": "Instant Card",
         "card_expansion": false,
         "card_edition": "Base Game",
+        "card_flavor": "",
         "card_effect": "Play this card during scoring. Subtract 2 points from any player's score this round."
     },
 ]
