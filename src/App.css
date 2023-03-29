@@ -68,3 +68,22 @@ main {
   justify-content: center;
   align-items: center;
 }
+
+
+/************************** MODAL **************************/
+
+.modal {
+  color: #001;
+}
+
+.modal-body {
+  display: flex;
+}
+
+.modal-infos {
+  margin-left: 2rem;
+}
+
+.modal-img {
+  width: 40%;
+}
