@@ -7,7 +7,8 @@ export const hdlCards = [
         "card_type": "Disaster Card",
         "card_expansion": false,
         "card_edition": "Base Game",
-        "card_effect": "Your beach day turns into a whale of a surprise..."
+        "card_flavor": "Your beach day turns into a whale of a surprise...",
+        "card_effect": ""
     }, 
     {
         "card_id": 2,
