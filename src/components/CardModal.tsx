@@ -19,15 +19,16 @@ const CardModal = ({item}:ICardData) => {
                                         <h1>Original</h1>
                                         <p>Name: {item.card_name}</p>
                                         <p>Type: {item.card_type}</p>
-                                        {item.card_flavor && <p>Flavor Text: {item.card_flavor}</p>}
                                         {item.card_effect && <p>Effect: {item.card_effect}</p>}
+                                        {item.card_flavor && <p>Flavor Text: {item.card_flavor}</p>}
                                     </div>
                                     <div className='modal-data translated'>
-                                        <h1>Translated</h1>
-                                        <p>Name: {item.card_name}</p>
-                                        <p>Type: {item.card_type}</p>
-                                        {item.card_flavor && <p>Flavor Text: {item.card_flavor}</p>}
-                                        {item.card_effect && <p>Effect: {item.card_effect}</p>}
+                                        <h1>Tradução</h1>
+                                        <p>Nome: {item.card_name_br}</p>
+                                        <p>Tipo: {item.card_type_br}</p>
+                                        {item.card_effect_br && <p>Efeito: {item.card_effect_br}</p>}
+                                        {item.card_flavor_br && <p>Flavor Text: {item.card_flavor_br}</p>}
+                                        
                                     </div>
                                 </div>
                             </div>

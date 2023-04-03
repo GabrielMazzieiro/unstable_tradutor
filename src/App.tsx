@@ -9,13 +9,13 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<Home/>}/>
-      <Route path="/hld" element={<HLDPage/>}/>
-      <Route path="/hts" element={<HTSPage/>}/>
-      <Route path="/uu" element={<UUPage/>}/>
-      <Route path="/llu" element={<LLUPage/>}/>
-      <Route path="/wp" element={<WPPage/>}/>
-      <Route path="/ttko" element={<TTKOPage/>}/>
+      <Route key="home" path="/" element={<Home/>}/>
+      <Route key="hld" path="/hld" element={<HLDPage/>}/>
+      <Route key="hts" path="/hts" element={<HTSPage/>}/>
+      <Route key="uu" path="/uu" element={<UUPage/>}/>
+      <Route key="hlluome" path="/llu" element={<LLUPage/>}/>
+      <Route key="wp" path="/wp" element={<WPPage/>}/>
+      <Route key="ttko" path="/ttko" element={<TTKOPage/>}/>
     </Routes>
   )
 }
