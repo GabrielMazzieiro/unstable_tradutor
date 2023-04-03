@@ -21,7 +21,7 @@ const ShowCards = () => {
             
         )}
         </div>
-        {data && <CardModal item={data}/>}
+        {data && <CardModal data={data}/>}
         </>
     )
     
