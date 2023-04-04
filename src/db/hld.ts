@@ -1,5 +1,5 @@
 
-export const hdlCards = [
+const hldCards = [
     {
         'card_edition': 'Base Game',
         'card_edition_br': 'Jogo Base',
@@ -735,3 +735,6 @@ export const hdlCards = [
         'game': 'Happy Little Dinosaurs'
     }
 ]
+
+
+export default hldCards
