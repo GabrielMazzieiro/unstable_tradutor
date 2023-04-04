@@ -4,7 +4,7 @@ import { useState } from 'react'
 import type { ICardData } from './ShowCards.types'
 
 interface ShowCardProps{
-    cards: [ICardData];
+    cards: ICardData[];
 }
 
 
