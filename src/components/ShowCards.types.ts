@@ -12,4 +12,8 @@ export interface ICardData {
     card_flavor_br?: string;
     card_effect?: string;
     card_effect_br?: string;
+    card_extra?: string;
+    card_extra_br?:string;
+    card_class?:string;
+    card_class_br?:string;
 }
