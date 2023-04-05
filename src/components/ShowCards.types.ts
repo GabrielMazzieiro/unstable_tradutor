@@ -16,4 +16,8 @@ export interface ICardData {
     card_extra_br?:string;
     card_class?:string;
     card_class_br?:string;
+    slay_conditions_lose?:string;
+    slay_conditions_lose_br?:string;
+    slay_conditions_win?:string;
+    slay_conditions_win_br?:string;
 }
