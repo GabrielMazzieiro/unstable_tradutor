@@ -115,6 +115,186 @@ export default function getCardImage(cardID:number, cardGame:string) {
                 return require('../assets/here_to_slay/the_shadow_claw.png');
             case 6:
                 return require('../assets/here_to_slay/the_cloaked_sage.png');
-        }
+            case 7:
+                return require('../assets/here_to_slay/abyss_queen.png');
+            case 8:
+                return require('../assets/here_to_slay/artic_aries.png');
+            case 9:
+                return require('../assets/here_to_slay/anuran_cauldron.png');
+            case 10:
+                return require('../assets/here_to_slay/bloodwing.png');
+            case 11:
+                return require('../assets/here_to_slay/corrupted_sabretooth.png');
+            case 12:
+                return require('../assets/here_to_slay/crowned_serpent.png');
+            case 13:
+                return require('../assets/here_to_slay/dracos.png');
+            case 14:
+                return require('../assets/here_to_slay/dark_dragon_king.png');
+            case 15:
+                return require('../assets/here_to_slay/malamammoth.png');
+            case 16:
+                return require('../assets/here_to_slay/mega_slime.png');
+            case 17:
+                return require('../assets/here_to_slay/orthus.png');
+            case 18:
+                return require('../assets/here_to_slay/rex_major.png');
+            case 19:
+                return require('../assets/here_to_slay/terratuga.png');
+            case 20:
+                return require('../assets/here_to_slay/titan_wyvern.png');
+            case 21:
+                return require('../assets/here_to_slay/warworn_owlbear.png');
+            case 22:
+                return require('../assets/here_to_slay/bad_axe.png');
+            case 23:
+                return require('../assets/here_to_slay/bear_claw.png');
+            case 24:
+                return require('../assets/here_to_slay/beary_wise.png');
+            case 25:
+                return require('../assets/here_to_slay/fury_knuckle.png');
+            case 26:
+                return require('../assets/here_to_slay/heavy_bear.png');
+            case 27:
+                return require('../assets/here_to_slay/pan_chucks.png');
+            case 28:
+                return require('../assets/here_to_slay/qi_bear.png');
+            case 29:
+                return require('../assets/here_to_slay/tough_teddy.png');
+            // case 30:
+            //     return require('../assets/here_to_slay');
+            // case 31:
+            //     return require('../assets/here_to_slay');
+            // case 32:
+            //     return require('../assets/here_to_slay');
+            // case 33:
+            //     return require('../assets/here_to_slay');
+            // case 34:
+            //     return require('../assets/here_to_slay');
+            // case 35:
+            //     return require('../assets/here_to_slay');
+            // case 36:
+            //     return require('../assets/here_to_slay');
+            // case 37:
+            //     return require('../assets/here_to_slay');
+            // case 38:
+            //     return require('../assets/here_to_slay');
+            // case 39:
+            //     return require('../assets/here_to_slay');
+            // case 40:
+            //     return require('../assets/here_to_slay');
+            // case 41:
+            //     return require('../assets/here_to_slay');
+            // case 42:
+            //     return require('../assets/here_to_slay');
+            // case 43:
+            //     return require('../assets/here_to_slay');
+            // case 44:
+            //     return require('../assets/here_to_slay');
+            // case 45:
+            //     return require('../assets/here_to_slay');
+            // case 46:
+            //     return require('../assets/here_to_slay');
+            // case 47:
+            //     return require('../assets/here_to_slay');
+            // case 48:
+            //     return require('../assets/here_to_slay');
+            // case 49:
+            //     return require('../assets/here_to_slay');
+            // case 50:
+            //     return require('../assets/here_to_slay');
+            // case 51:
+            //     return require('../assets/here_to_slay');
+            // case 52:
+            //     return require('../assets/here_to_slay');
+            // case 53:
+            //     return require('../assets/here_to_slay');
+            // case 54:
+            //     return require('../assets/here_to_slay');
+            // case 55:
+            //     return require('../assets/here_to_slay');
+            // case 56:
+            //     return require('../assets/here_to_slay');
+            // case 57:
+            //     return require('../assets/here_to_slay');
+            // case 58:
+            //     return require('../assets/here_to_slay');
+            // case 59:
+            //     return require('../assets/here_to_slay');
+            // case 60:
+            //     return require('../assets/here_to_slay');
+            // case 61:
+            //     return require('../assets/here_to_slay');
+            // case 62:
+            //     return require('../assets/here_to_slay');
+            // case 63:
+            //     return require('../assets/here_to_slay');
+            // case 64:
+            //     return require('../assets/here_to_slay');
+            // case 65:
+            //     return require('../assets/here_to_slay');
+            // case 66:
+            //     return require('../assets/here_to_slay');
+            // case 67:
+            //     return require('../assets/here_to_slay');
+            // case 68:
+            //     return require('../assets/here_to_slay');
+            // case 69:
+            //     return require('../assets/here_to_slay');
+            // case 70:
+            //     return require('../assets/here_to_slay');
+            // case 71:
+            //     return require('../assets/here_to_slay');
+            // case 72:
+            //     return require('../assets/here_to_slay');
+            // case 73:
+            //     return require('../assets/here_to_slay');
+            // case 74:
+            //     return require('../assets/here_to_slay');
+            // case 75:
+            //     return require('../assets/here_to_slay');
+            // case 76:
+            //     return require('../assets/here_to_slay');
+            // case 77:
+            //     return require('../assets/here_to_slay');
+            // case 78:
+            //     return require('../assets/here_to_slay');
+            // case 79:
+            //     return require('../assets/here_to_slay');
+            // case 80:
+            //     return require('../assets/here_to_slay');
+            // case 81:
+            //     return require('../assets/here_to_slay');
+            // case 82:
+            //     return require('../assets/here_to_slay');
+            // case 83:
+            //     return require('../assets/here_to_slay');
+            // case 84:
+            //     return require('../assets/here_to_slay');
+            // case 85:
+            //     return require('../assets/here_to_slay');
+            // case 86:
+            //     return require('../assets/here_to_slay');
+            // case 87:
+            //     return require('../assets/here_to_slay');
+            // case 88:
+            //     return require('../assets/here_to_slay');
+            // case 89:
+            //     return require('../assets/here_to_slay');
+            // case 90:
+            //     return require('../assets/here_to_slay');
+            // case 91:
+            //     return require('../assets/here_to_slay');
+            // case 92:
+            //     return require('../assets/here_to_slay');
+            // case 93:
+            //     return require('../assets/here_to_slay');
+            // case 94:
+            //     return require('../assets/here_to_slay');
+            // case 95:
+            //     return require('../assets/here_to_slay');
+            
+            }
+            
     }
 }
