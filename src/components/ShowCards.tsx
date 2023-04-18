@@ -18,7 +18,7 @@ const ShowCards = ({cards, titles}:ShowCardProps) => {
         {titles.map(title => {
             return(
                 <>
-                <div><h1> {title} </h1></div>
+                <div><h1 className="title"> {title} </h1></div>
 
                 <div className="row gy-3">
                     {cards.map(item => {
