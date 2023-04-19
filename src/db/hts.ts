@@ -1347,7 +1347,7 @@ const htsCards = [
         'card_name': 'Call to the Fallen',
         'card_name_br': 'Chamado aos Caídos',
         'card_type': 'Magic Card',
-        'card_type_br': 'Mágica',
+        'card_type_br': 'Carta Mágica',
         'game': 'Here To Slay',
         'card_class': 'Magic',
         'card_class_br': 'Mágica',

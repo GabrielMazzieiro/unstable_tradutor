@@ -22,7 +22,7 @@ const ShowCards = ({cards, titles}:ShowCardProps) => {
 
                 <div className="row gy-3">
                     {cards.map(item => {
-                        if (item.card_type == title)
+                        if (item.card_type_br == title)
                             return(
                                 <div  className='col col-4 col-sm-3 col-lg-2 col-xxl-1 card-back'>
                                     <button className='card-button' onClick={() => setData(item)} data-bs-toggle="modal" data-bs-target='#card'>

@@ -5,7 +5,7 @@ import { hldCards } from "../db"
 
 const HLDPage = () => {
 
-    const title_list = ['Disaster Card', 'Point Card', 'Instant Card']
+    const title_list = ['Carta de Desastre', 'Carta de Ponto', 'Carta Instantânea']
 
     return (
      <main>
