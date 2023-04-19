@@ -104,195 +104,197 @@ export default function getCardImage(cardID:number, cardGame:string) {
     } else if (cardGame == 'Here To Slay') {
         switch(cardID) {
             case 1:
-                return require('../assets/here_to_slay/the_fist_of_reason.png');;
+                return require('../assets/here_to_slay/base_game/the_fist_of_reason.png');;
             case 2:
-                return require('../assets/here_to_slay/the_charismatic_song.png');;
+                return require('../assets/here_to_slay/base_game/the_charismatic_song.png');;
             case 3:
-                return require('../assets/here_to_slay/the_protecting_horn.png');
+                return require('../assets/here_to_slay/base_game/the_protecting_horn.png');
             case 4:
-                return require('../assets/here_to_slay/the_divine_arrow.png');
+                return require('../assets/here_to_slay/base_game/the_divine_arrow.png');
             case 5:
-                return require('../assets/here_to_slay/the_shadow_claw.png');
+                return require('../assets/here_to_slay/base_game/the_shadow_claw.png');
             case 6:
-                return require('../assets/here_to_slay/the_cloaked_sage.png');
+                return require('../assets/here_to_slay/base_game/the_cloaked_sage.png');
             case 7:
-                return require('../assets/here_to_slay/abyss_queen.png');
+                return require('../assets/here_to_slay/base_game/abyss_queen.png');
             case 8:
-                return require('../assets/here_to_slay/artic_aries.png');
+                return require('../assets/here_to_slay/base_game/artic_aries.png');
             case 9:
-                return require('../assets/here_to_slay/anuran_cauldron.png');
+                return require('../assets/here_to_slay/base_game/anuran_cauldron.png');
             case 10:
-                return require('../assets/here_to_slay/bloodwing.png');
+                return require('../assets/here_to_slay/base_game/bloodwing.png');
             case 11:
-                return require('../assets/here_to_slay/corrupted_sabretooth.png');
+                return require('../assets/here_to_slay/base_game/corrupted_sabretooth.png');
             case 12:
-                return require('../assets/here_to_slay/crowned_serpent.png');
+                return require('../assets/here_to_slay/base_game/crowned_serpent.png');
             case 13:
-                return require('../assets/here_to_slay/dracos.png');
+                return require('../assets/here_to_slay/base_game/dracos.png');
             case 14:
-                return require('../assets/here_to_slay/dark_dragon_king.png');
+                return require('../assets/here_to_slay/base_game/dark_dragon_king.png');
             case 15:
-                return require('../assets/here_to_slay/malamammoth.png');
+                return require('../assets/here_to_slay/base_game/malamammoth.png');
             case 16:
-                return require('../assets/here_to_slay/mega_slime.png');
+                return require('../assets/here_to_slay/base_game/mega_slime.png');
             case 17:
-                return require('../assets/here_to_slay/orthus.png');
+                return require('../assets/here_to_slay/base_game/orthus.png');
             case 18:
-                return require('../assets/here_to_slay/rex_major.png');
+                return require('../assets/here_to_slay/base_game/rex_major.png');
             case 19:
-                return require('../assets/here_to_slay/terratuga.png');
+                return require('../assets/here_to_slay/base_game/terratuga.png');
             case 20:
-                return require('../assets/here_to_slay/titan_wyvern.png');
+                return require('../assets/here_to_slay/base_game/titan_wyvern.png');
             case 21:
-                return require('../assets/here_to_slay/warworn_owlbear.png');
+                return require('../assets/here_to_slay/base_game/warworn_owlbear.png');
             case 22:
-                return require('../assets/here_to_slay/bad_axe.png');
+                return require('../assets/here_to_slay/base_game/bad_axe.png');
             case 23:
-                return require('../assets/here_to_slay/bear_claw.png');
+                return require('../assets/here_to_slay/base_game/bear_claw.png');
             case 24:
-                return require('../assets/here_to_slay/beary_wise.png');
+                return require('../assets/here_to_slay/base_game/beary_wise.png');
             case 25:
-                return require('../assets/here_to_slay/fury_knuckle.png');
+                return require('../assets/here_to_slay/base_game/fury_knuckle.png');
             case 26:
-                return require('../assets/here_to_slay/heavy_bear.png');
+                return require('../assets/here_to_slay/base_game/heavy_bear.png');
             case 27:
-                return require('../assets/here_to_slay/pan_chucks.png');
+                return require('../assets/here_to_slay/base_game/pan_chucks.png');
             case 28:
-                return require('../assets/here_to_slay/qi_bear.png');
+                return require('../assets/here_to_slay/base_game/qi_bear.png');
             case 29:
-                return require('../assets/here_to_slay/tough_teddy.png');
+                return require('../assets/here_to_slay/base_game/tough_teddy.png');
             case 30:
-                return require('../assets/here_to_slay/dodgy_dealer.png');
+                return require('../assets/here_to_slay/base_game/dodgy_dealer.png');
             case 31:
-                return require('../assets/here_to_slay/fuzzy_cheeks.png');
+                return require('../assets/here_to_slay/base_game/fuzzy_cheeks.png');
             case 32:
-                return require('../assets/here_to_slay/greedy_cheeks.png');
+                return require('../assets/here_to_slay/base_game/greedy_cheeks.png');
             case 33:
-                return require('../assets/here_to_slay/lucky_bucky.png');
+                return require('../assets/here_to_slay/base_game/lucky_bucky.png');
             case 34:
-                return require('../assets/here_to_slay/mellow_dee.png');
+                return require('../assets/here_to_slay/base_game/mellow_dee.png');
             case 35:
-                return require('../assets/here_to_slay/napping_nibbles.png');
+                return require('../assets/here_to_slay/base_game/napping_nibbles.png');
             case 36:
-                return require('../assets/here_to_slay/peanut.png');
+                return require('../assets/here_to_slay/base_game/peanut.png');
             case 37:
-                return require('../assets/here_to_slay/tipsy_tootie.png');
+                return require('../assets/here_to_slay/base_game/tipsy_tootie.png');
             case 38:
-                return require('../assets/here_to_slay/calming_voice.png');
+                return require('../assets/here_to_slay/base_game/calming_voice.png');
             case 39:
-                return require('../assets/here_to_slay/guiding_light.png');
+                return require('../assets/here_to_slay/base_game/guiding_light.png');
             case 40:
-                return require('../assets/here_to_slay/holy_curselifter.png');
+                return require('../assets/here_to_slay/base_game/holy_curselifter.png');
             case 41:
-                return require('../assets/here_to_slay/iron_resolve.png');
+                return require('../assets/here_to_slay/base_game/iron_resolve.png');
             case 42:
-                return require('../assets/here_to_slay/mighty_blade.png');
+                return require('../assets/here_to_slay/base_game/mighty_blade.png');
             case 43:
-                return require('../assets/here_to_slay/radiant_horn.png');
+                return require('../assets/here_to_slay/base_game/radiant_horn.png');
             case 44:
-                return require('../assets/here_to_slay/vibrant_glow.png');
+                return require('../assets/here_to_slay/base_game/vibrant_glow.png');
             case 45:
-                return require('../assets/here_to_slay/wise_shield.png');
+                return require('../assets/here_to_slay/base_game/wise_shield.png');
             case 46:
-                return require('../assets/here_to_slay/bullseye.png');
+                return require('../assets/here_to_slay/base_game/bullseye.png');
             case 47:
-                return require('../assets/here_to_slay/hook.png');
+                return require('../assets/here_to_slay/base_game/hook.png');
             case 48:
-                return require('../assets/here_to_slay/lookie_rookie.png');
+                return require('../assets/here_to_slay/base_game/lookie_rookie.png');
             case 49:
-                return require('../assets/here_to_slay/quick_draw.png');
+                return require('../assets/here_to_slay/base_game/quick_draw.png');
             case 50:
-                return require('../assets/here_to_slay/serious_grey.png');
+                return require('../assets/here_to_slay/base_game/serious_grey.png');
             case 51:
-                return require('../assets/here_to_slay/sharp_fox.png');
+                return require('../assets/here_to_slay/base_game/sharp_fox.png');
             case 52:
-                return require('../assets/here_to_slay/wildshot.png');
+                return require('../assets/here_to_slay/base_game/wildshot.png');
             case 53:
-                return require('../assets/here_to_slay/wily_red.png');
+                return require('../assets/here_to_slay/base_game/wily_red.png');
             case 54:
-                return require('../assets/here_to_slay/kit_napper.png');
+                return require('../assets/here_to_slay/base_game/kit_napper.png');
             case 55:
-                return require('../assets/here_to_slay/meowzio.png');
+                return require('../assets/here_to_slay/base_game/meowzio.png');
             case 56:
-                return require('../assets/here_to_slay/plundering_puma.png');
+                return require('../assets/here_to_slay/base_game/plundering_puma.png');
             case 57:
-                return require('../assets/here_to_slay/shurikitty.png');
+                return require('../assets/here_to_slay/base_game/shurikitty.png');
             case 58:
-                return require('../assets/here_to_slay/silent_shadow.png');
+                return require('../assets/here_to_slay/base_game/silent_shadow.png');
             case 59:
-                return require('../assets/here_to_slay/slippery_paws.png');
+                return require('../assets/here_to_slay/base_game/slippery_paws.png');
             case 60:
-                return require('../assets/here_to_slay/sly_pickings.png');
+                return require('../assets/here_to_slay/base_game/sly_pickings.png');
             case 61:
-                return require('../assets/here_to_slay/smooth_mimimeow.png');
+                return require('../assets/here_to_slay/base_game/smooth_mimimeow.png');
             case 62:
-                return require('../assets/here_to_slay/bun_bun.png');
+                return require('../assets/here_to_slay/base_game/bun_bun.png');
             case 63:
-                return require('../assets/here_to_slay/buttons.png');
+                return require('../assets/here_to_slay/base_game/buttons.png');
             case 64:
-                return require('../assets/here_to_slay/fluffy.png');
+                return require('../assets/here_to_slay/base_game/fluffy.png');
             case 65:
-                return require('../assets/here_to_slay/hopper.png');
+                return require('../assets/here_to_slay/base_game/hopper.png');
             case 66:
-                return require('../assets/here_to_slay/snowball.png');
+                return require('../assets/here_to_slay/base_game/snowball.png');
             case 67:
-                return require('../assets/here_to_slay/spooky.png');
+                return require('../assets/here_to_slay/base_game/spooky.png');
             case 68:
-                return require('../assets/here_to_slay/whiskers.png');
+                return require('../assets/here_to_slay/base_game/whiskers.png');
             case 69:
-                return require('../assets/here_to_slay/wiggles.png');
-            // case 70:
-            //     return require('../assets/here_to_slay');
-            // case 71:
-            //     return require('../assets/here_to_slay');
-            // case 72:
-            //     return require('../assets/here_to_slay');
-            // case 73:
-            //     return require('../assets/here_to_slay');
-            // case 74:
-            //     return require('../assets/here_to_slay');
-            // case 75:
-            //     return require('../assets/here_to_slay');
-            // case 76:
-            //     return require('../assets/here_to_slay');
-            // case 77:
-            //     return require('../assets/here_to_slay');
-            // case 78:
-            //     return require('../assets/here_to_slay');
-            // case 79:
-            //     return require('../assets/here_to_slay');
-            // case 80:
-            //     return require('../assets/here_to_slay');
-            // case 81:
-            //     return require('../assets/here_to_slay');
-            // case 82:
-            //     return require('../assets/here_to_slay');
-            // case 83:
-            //     return require('../assets/here_to_slay');
-            // case 84:
-            //     return require('../assets/here_to_slay');
-            // case 85:
-            //     return require('../assets/here_to_slay');
-            // case 86:
-            //     return require('../assets/here_to_slay');
-            // case 87:
-            //     return require('../assets/here_to_slay');
-            // case 88:
-            //     return require('../assets/here_to_slay');
-            // case 89:
-            //     return require('../assets/here_to_slay');
-            // case 90:
-            //     return require('../assets/here_to_slay');
-            // case 91:
-            //     return require('../assets/here_to_slay');
-            // case 92:
-            //     return require('../assets/here_to_slay');
-            // case 93:
-            //     return require('../assets/here_to_slay');
-            // case 94:
-            //     return require('../assets/here_to_slay');
-            // case 95:
-            //     return require('../assets/here_to_slay');
+                return require('../assets/here_to_slay/base_game/wiggles.png');
+            case 70:
+                return require('../assets/here_to_slay/base_game/bard_mask.png');
+            case 71:
+                return require('../assets/here_to_slay/base_game/fighter_mask.png');
+            case 72:
+                return require('../assets/here_to_slay/base_game/guardian_mask.png');
+            case 73:
+                return require('../assets/here_to_slay/base_game/ranger_mask.png');
+            case 74:
+                return require('../assets/here_to_slay/base_game/thief_mask.png');
+            case 75:
+                return require('../assets/here_to_slay/base_game/wizard_mask.png');
+            case 76:
+                return require('../assets/here_to_slay/base_game/decoy_doll.png');
+            case 77:
+                return require('../assets/here_to_slay/base_game/particularly_rusty_coin.png');
+            case 78:
+                return require('../assets/here_to_slay/base_game/really_big_ring.png');
+            case 79:
+                return require('../assets/here_to_slay/base_game/curse_of_the_snakes_eyes.png');
+            case 80:
+                return require('../assets/here_to_slay/base_game/sealing_key.png');
+            case 81:
+                return require('../assets/here_to_slay/base_game/suspiciously_shiny_coin.png');
+            case 82:
+                return require('../assets/here_to_slay/base_game/modifier1-3.png');
+            case 83:
+                return require('../assets/here_to_slay/base_game/modifier2-2.png');
+            case 84:
+                return require('../assets/here_to_slay/base_game/modifier3-1.png');
+            case 85:
+                return require('../assets/here_to_slay/base_game/modifier4.png');
+            case 86:
+                return require('../assets/here_to_slay/base_game/modifier-4.png');
+            case 87:
+                return require('../assets/here_to_slay/base_game/call_to_the_fallen.png');
+            case 88:
+                return require('../assets/here_to_slay/base_game/critical_boost.png');
+            case 89:
+                return require('../assets/here_to_slay/base_game/destructive_spell.png');
+            case 90:
+                return require('../assets/here_to_slay/base_game/enchanted_spell.png');
+            case 91:
+                return require('../assets/here_to_slay/base_game/entangling_trap.png');
+            case 92:
+                return require('../assets/here_to_slay/base_game/forced_exchange.png');
+            case 93:
+                return require('../assets/here_to_slay/base_game/forceful_winds.png');
+            case 94:
+                return require('../assets/here_to_slay/base_game/winds_of_change.png');
+            case 95:
+                return require('../assets/here_to_slay/base_game/challenge.png');
+            case 96:
+                return require('../assets/here_to_slay/base_game/challenge.png');
             
             }
     }

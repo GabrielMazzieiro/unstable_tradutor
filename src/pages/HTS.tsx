@@ -4,7 +4,7 @@ import { htsCards } from "../db"
 
 const HTSPage = () => {
 
-    const title_list = ['Party Leader', 'Monster', 'Hero Card', 'Items', 'Cursed Items', 'Modifiers', 'Magic', 'Challenges']
+    const title_list = ['Party Leader', 'Monster', 'Hero Card', 'Items', 'Cursed Items', 'Modifier Card', 'Magic Card', 'Challenge Card']
 
     return (
      <main>
