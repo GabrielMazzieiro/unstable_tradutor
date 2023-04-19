@@ -11,7 +11,7 @@ const UUPage = () => {
     'Encantamento',
     'Unicórnio Supremo',
     'Mágica',
-    'Unicórnio Bebê',
+    'Bebê Unicórnio',
     'Unicórnio Mágico']
 
     return (
