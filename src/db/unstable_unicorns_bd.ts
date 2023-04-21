@@ -354,6 +354,9 @@ const uuCards = [
     card_type_br: "Unicórnio Básico",
     game: "Unstable Unicorns",
   },
+
+  // ===================================================================================================================================================================
+
   {
     card_edition: "Base Game",
     card_edition_br: "Jogo Base",
@@ -1228,8 +1231,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você PODE trazer um bebê do berçário diretamente para seu estábulo.",
@@ -1242,8 +1245,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, olhe as três primeiras cartas da pilha de compras e adicione uma delas na sua mão, depois retorne as outras duas para o topo da pilha de compras em qualquer ordem.",
@@ -1256,8 +1259,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você PODE descartar duas cartas de unicórnio e depois trazer um unicórnio da pilha de descartes para o seu estábulo.",
@@ -1270,8 +1273,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você PODE sacrificar uma carta de unicórnio e depois trazer uma carta de unicórnio da pilha de descartes para o seu estábulo.",
@@ -1284,8 +1287,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Traga uma carta de unicórnio da pilha de descartes para o seu estábulo.",
@@ -1298,8 +1301,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta e depois comprar uma carta.",
@@ -1312,8 +1315,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar duas cartas e depois destruir uma carta de unicórnio.",
@@ -1326,8 +1329,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta e depois comprar duas cartas.",
@@ -1340,8 +1343,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Second Edition Base Deck",
+    card_edition: "Second Edition Base Deck",
+    card_edition_br: "Jogo Base Segunda Edição",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar três cartas e depois roubar uma carta de unicórnio.",
@@ -1354,148 +1357,198 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
+    card_edition: "Control Base Deck",
     card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 94,
     card_name: "",
     card_name_br: "Angelic Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 95,
     card_name: "",
     card_name_br: "Baby Archangel Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 96,
     card_name: "",
     card_name_br: "Baby Bearicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 97,
     card_name: "",
     card_name_br: "Baby Belugacorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 98,
     card_name: "",
     card_name_br: "Baby Nightmare Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 99,
     card_name: "",
     card_name_br: "Baby Pegasuscorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 100,
     card_name: "",
     card_name_br: "Baby Penguicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 101,
     card_name: "",
     card_name_br: "Baby Slothicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 102,
     card_name: "",
     card_name_br: "Demonic Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
-    card_effect: "",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 103,
     card_name: "",
     card_name_br: "Million Dollar Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1507,8 +1560,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1520,8 +1573,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1533,8 +1586,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1546,8 +1599,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1559,8 +1612,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1572,8 +1625,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -1585,8 +1638,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, sacrifique uma carta de unicórnio. Procure na pilha de compras por uma carta de unicórnio e coloque-á diretamente no seu estábulo. Embaralhe a pilha de compras.",
@@ -1599,8 +1652,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar  no seu estábulo, sacrifique três cartas. Se uma carta sua for sacrificada ou destruída, ao invés disso você PODE descartar esta carta. Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra.",
@@ -1613,8 +1666,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, descarte uma carta. Chronocorn pode ser jogada como uma carta instantânea.",
@@ -1627,8 +1680,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, sacrifique duas cartas de unicórnio. Nenhum outro jogador pode jogar cartas Neigh. Esta carta não pode ser negada.",
@@ -1641,8 +1694,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, descarte sua mão. Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra. Seu limite de cartas na mão aumenta em três.",
@@ -1655,8 +1708,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, sacrifique duas cartas de unicórnio, depois procure na pilha de compras por uma carta de unicórnio e coloque-a diretamente no seu estábulo. Embaralhe a pilha de compras. Se Nine-Tailed Foxicorn for sacrificada ou destruída, você pode procurar na pilha de compras por uma carta de unicórnio e colocá-la no seu estábulo.",
@@ -1669,8 +1722,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, sacrifique uma carta. Se uma carta no seu estábulo for destruída, você pode descartar duas cartas ao invés disso.",
@@ -1683,8 +1736,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, sacrifique duas cartas. Se Time-Shifting Unicorn estiver no seu estábulo no início do seu turno, você pode olhar as primeiras três cartas da pilha de compras e depois retorná-las em qualquer ordem.",
@@ -1697,8 +1750,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, sacrifique uma carta de unicórnio. Se uma das suas cartas de unicórnio for destruída, você PODE sacrificar uma carta de encantamento ou maldição ao invés disso.",
@@ -1711,8 +1764,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, descarte uma carta. Quando qualquer outro jogador jogar uma carta de maldição no seu estábulo, você PODE procurar uma carta de encantamento na pilha de compras e colocá-la diretamente no seu estábulo. Embaralhe a pilha de compras.",
@@ -1725,8 +1778,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você PODE mover uma carta de Upgrade do seu estábulo para o estábulo de outro jogador. Se você fizer isso, roube uma carta de Upgrade do estábulo do mesmo jogador.",
@@ -1739,8 +1792,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode escolher qualquer jogador. Destrua uma carta de unicórnio do estábulo desse jogador, então procure na pilha de compras por uma carta de unicórnio e coloque no estábulo dele. Embaralhe a pilha de compras.",
@@ -1753,8 +1806,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode retornar os bebês unicornios de todos jogadores para a enfermaria.",
@@ -1767,8 +1820,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada vez que determinado jogador for descartar uma carta, este jogador deve descartar duas cartas em vez de uma.",
@@ -1781,8 +1834,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode descartar uma carta. Se você fizer isso, traga uma carta de Upgrade da sua mão diretamente para seu estábulo.",
@@ -1795,8 +1848,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode olhar as três primeiras cartas da pilha de compras. Mova qualquer número dessas cartas para a pilha de descarte, então retorne o resto para o topo da pilha de compras, em qualquer ordem.",
@@ -1809,8 +1862,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode escolher qualquer jogador. Este jogador deve embaralhar a mão na pilha de compras e comprar três cartas.",
@@ -1823,8 +1876,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode procurar na pilha de compras por uma carta de Upgrade e colocar no seu estábulo, então, embaralhe a pilha de compras. Se fizer isso, todos jogadores devem comprar uma carta.",
@@ -1837,8 +1890,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando qualquer outro jogador tentar usar o efeito de uma carta de unicórnio, você pode descartar uma carta. Se você fizer isso, pare o efeito da carta.",
@@ -1851,8 +1904,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode mover uma carta de unicórnio do estábulo com maior número de unicórnios para o estábulo com menor número de unicórnios.",
@@ -1865,8 +1918,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entrar no seu estábulo, você pode descartar uma carta. Se você fizer isso, traga um bebê unicórnio da enfermaria direto para seu estábulo.",
@@ -1879,8 +1932,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se essa carta for sacrificada ou descartada, cada jogador deverá sacrificar uma carta.",
@@ -1893,8 +1946,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode trazer um bebê unicórnio da enfermaria diretamente para seu estábulo. Se fizer isso, não jogue uma carta da sua mão durante sua fase de ação.",
@@ -1907,8 +1960,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, cada jogador que não tiver uma carta de unicórnio mágico no seu estábulo deve descartar uma carta.",
@@ -1921,8 +1974,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada vez que um jogador for descartar uma carta, esse jogador deve comprar uma carta em vez de descartar, se não tiver atingido o limite de cartas na mão.",
@@ -1935,8 +1988,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada vez que um jogador for sacrificar uma carta, esse jogador deve sacrificar duas cartas em vez de uma.",
@@ -1949,8 +2002,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta sair do seu estábulo, você pode escolher qualquer outro jogador. pegue uma carta da mão desse jogador e coloque na sua mão.",
@@ -1963,8 +2016,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando qualquer outro jogador tentar trazer uma carta de unicórnio bebê da enfermaria para o estábulo dele, você pode descartar uma carta. Se fizer isso, traga aquela carta de unicórnio bebê diretamente para o seu estábulo.",
@@ -1977,8 +2030,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você pode mover uma carta de maldição do seu estábulo para o de qualquer outro jogador.",
@@ -1991,8 +2044,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta. Se fizer isso, descarte sua mão e compre cinco cartas.",
@@ -2005,8 +2058,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Os efeitos das suas cartas de unicórnio mágio não ativam.",
     card_expansion: false,
@@ -2018,8 +2071,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, escolha qualquer outro jogador. Aquele jogador deve mostrar a mão dele pra você.",
@@ -2032,8 +2085,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode mover uma carta de encantamento ou maldição do estábulo de qualquer jogador para o estábulo de qualquer outro jogador. Se fizer isso, pule sua fase de ação.",
@@ -2046,8 +2099,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando qualquer outro jogador jogar uma carta de unicórnio, você pode sacrificar esta carta. Se fizer isso, roube aquela carta de unicórnio.",
@@ -2060,8 +2113,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta. Se fizer isso, jogue duas cartas durante a sua fase de ação.",
@@ -2074,8 +2127,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode comprar uma carta extra. Se fizer isso, cada outro jogador PODE comprar uma carta.",
@@ -2088,8 +2141,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode olhar as duas cartas do topo da pilha de compras e retorná-las na mesma ordem.",
@@ -2102,8 +2155,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você PODE descartar uma carta. Se fizer isso, traga uma carta de maldição da sua mão diretamente para o estábulo de qualquer outro jogador.",
@@ -2116,8 +2169,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Esta carta não pode ser negada.",
     card_expansion: false,
@@ -2129,8 +2182,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Sacrifique uma carta de unicórnio, uma carta de encantamento e uma carta de maldição. Procure na pilha de compras por uma carta de unicórnio e uma carta de encantamento e coloque-as diretamente no seu estábulo.",
@@ -2143,8 +2196,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Destrua uma carta do estábulo de qualquer jogador sem ativar nenhum dos seus efeitos.",
@@ -2157,8 +2210,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Sacrifique uma carta de unicórnio bebê e então procure na pilha de compras por uma carta de unicórnio e coloque-a diretamente no seu estábulo. Embaralhe a pilha de compras.",
@@ -2171,8 +2224,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada jogador DEVE passar a sua mão para o jogador à sua esquerda.",
@@ -2185,8 +2238,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Vire uma carta por vez do topo do baralho na pilha de descartes até encontrar uma carta de unicórnio. Traga-a diretamente para o seu estábulo.",
@@ -2199,8 +2252,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Compre quatro cartas e então descarte quatro cartas.",
     card_expansion: false,
@@ -2212,8 +2265,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer outro jogador e destrua uma carta de unicórnio do estábulo dele. Você e aquele jogador PODEM comprar uma carta cada.",
@@ -2226,8 +2279,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Compre uma carta. Se for uma carta de encantamento, maldição ou de unicórnio, traga-a diretamente para o seu estábulo e então compre outra carta.",
@@ -2240,8 +2293,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Descarte qualquer número de cartas. Escolha um número de jogadores igual ao número de cartas descartadas e então destrua uma carta de unicórnio do estábulo de cada um deles.",
@@ -2254,8 +2307,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Retorne uma carta do estábulo de qualquer jogador para a mão dele e compre uma carta.",
@@ -2268,8 +2321,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer jogador. Retorne todas as cartas do estábulo dele para a mão dele e imediatamente traga as mesmas cartas diretamente no estábulo dele.",
@@ -2282,8 +2335,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Compre uma carta e então jogue duas cartas da sua mão. Pule o seu próximo turno.",
@@ -2296,8 +2349,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer outro jogador. Escolha duas cartas da mão daquele jogador e coloque-as na sua mão. Aquele jogador pode escolher uma carta da sua mão para adicioná-la a mão dele. Aquele jogador não pode escolehr nenhuma das cartas que você escolheu.",
@@ -2310,8 +2363,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Roube uma carta de unicórnio.",
     card_expansion: false,
@@ -2323,8 +2376,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Embaralhe a pilha de descartes na pilha de compras. Procure na pilha de compras por uma carta de unicórnio e traga-a diretamente para o seu estábulo. Embaralhe a pilha de compras. Cada outro jogador PODE comprar uma carta.",
@@ -2337,8 +2390,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Compre cartas até você atingir o seu limite de cartas na mão. Cada outro jogador PODE comprar duas cartas.",
@@ -2351,8 +2404,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Descarte uma carta e  então compre três cartas.",
     card_expansion: false,
@@ -2364,8 +2417,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Roube uma carta de encantamento ou maldição.",
     card_expansion: false,
@@ -2377,8 +2430,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar destruir uma carta no seu estábulo. Pare o efeito de destruição e compre uma carta ao invés disso.",
@@ -2391,8 +2444,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta de encantamento ou maldição. Escolha o estábulo que aquela carta irá entrar.",
@@ -2405,8 +2458,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta de unicórnio. Traga uma carta de unicórnio básico da sua mão diretamente para o seu estábulo.",
@@ -2419,8 +2472,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquele jogador e coloque a carta jogada por ele diretamente na pilha de descartes.",
@@ -2433,8 +2486,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquele jogador e coloque a carta jogada por ele diretamente na pilha de descartes.",
@@ -2447,8 +2500,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquele jogador e coloque a carta jogada por ele diretamente na pilha de descartes. Esta carta não pode ser negada.",
@@ -2461,8 +2514,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquela carta e então adicione-a ao topo da pilha de compras.",
@@ -2475,8 +2528,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode descartar duas cartas. Se fizer isso, destrua uma carta de unicórnio OU procure uma carta de unicórnio na pilha de compras e coloque-a na sua mão. Embaralhe a pilha de compras.",
@@ -2489,8 +2542,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se uma carta de unicórnio for sacrificada ou destruída, você pode sacrificar esta carta. Se fizer isso, traga aquela carta da pilha de descartes diretamente para o seu estábulo.",
@@ -2503,8 +2556,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode olhar as três primeiras cartas do topo da pilha de compras. Se você fizer isso, coloque uma delas na sua mão e então embaralhe as outras duas novamente na pilha de compras e pule sua fase de compra.",
@@ -2517,8 +2570,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada vez que uma carta de maldição entra no seu estábulo, você pode procurar por uma carta de encantamento e colocá-la diretamente no seu estábulo. Embaralhe a pilha de compras.",
@@ -2531,8 +2584,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se você tiver uma carta de unicórnio bebê no seu estábulo, você precisa de menos um unicórnio para vencer.",
@@ -2545,8 +2598,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando qualquer outro jogador tentar jogar um Neigh, você pode descartar uma carta. Se fizer isso, pare a ação daquele jogador e retorne a carta Neigh para a mão dele. Aquele jogador não poderá jogar uma carta Neigh neste turno.",
@@ -2559,8 +2612,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada vez que qualquer outro jogador destruir uma carta de unicórnio do seu estábulo, você PODE destruir uma carta de unicórnio do estábulo daquele jogador.",
@@ -2573,8 +2626,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se você tiver duas ou mais cartas de unicórnio básico no seu estábulo no começo do seu turno, você pode descartar uma carta. Se você fizer isso, traga uma carta de unicórnio bebê da enfermaria diretamente para o seu estábulo",
@@ -2587,8 +2640,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se uma das suas cartas de unicórnio for sacrificada ou destruída, você PODE sacrificar uma carta de encantamento ou maldição ao invés disso.",
@@ -2601,8 +2654,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode descartar duas cartas. Se fizer isso, sacrifique ou destrua uma carta.",
@@ -2615,8 +2668,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique todas as suas cartas de maldição. Você não pode jogar cartas de mágica. Se uma carta de maldição entrar no seu estábulo, sacrifique esta carta.",
@@ -2629,8 +2682,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, sacrifique uma carta de unicórnio mágico. Procure na pilha de compras por uma carta de unicórnio básico e coloque-a diretamente no seu estábulo. Embaralhe a pilha de compras.",
@@ -2643,8 +2696,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br: "Você não pode jogar cartas instantâneas.",
     card_expansion: false,
@@ -2656,8 +2709,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Todos os seus unicórnios são considerados Gatos. Cartas que afetam cartas de unicórnios não afetam seus gatos.",
@@ -2670,8 +2723,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode descartar três cartas. Se fizer isso, sacrifique esta carta. Se você não o fizer, mova uma carta de unicórnio do seu estábulo para o estábulo de qualquer outro jogador.",
@@ -2684,8 +2737,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Todos os seus unicórnios são considerados lontras. Cartas que afetam cartas de unicórnio não afetam suas lontras.",
@@ -2698,8 +2751,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique todas as cartas de maldição. Você não pdoe jogar cartas de unicórnios mágicos. Se uma carta de maldição entrar no seu estábulo, sacrifique esta carta.",
@@ -2712,8 +2765,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, embaralhe uma carta de unicórnio do seu estábulo na pilha de compras e então compre uma carta. Se a qualquer momento  você não tiver cartas de unicórnio no seu estábulo, sacrifique esta carta.",
@@ -2726,8 +2779,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Control Base Deck",
+    card_edition: "Control Base Deck",
+    card_edition_br: "Jogo Base Control",
     card_effect: "",
     card_effect_br:
       "Cada vez que você comprar pelo menos uma carta, descarte uma carta.",
@@ -2740,8 +2793,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique duas cartas de unicórnio. Cada vez que você destruir uma carta, você pode destruir uma segunda carta.",
@@ -2754,8 +2807,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, descarte uma carta. Quando qualquer outro jogador tentar jogar uma carta, você PODE sacrificar esta carta. Se fizer isso, adicione aquela carta a sua mão e imediatamente jogue-a.",
@@ -2768,8 +2821,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique duas cartas. Se esta carta estiver no seu estábulo no início do seu turno, você PODE escolher uma carta da pilha de descartes e colocá-la na sua mão. Se fizer isso, pule sua fase de compra.",
@@ -2782,8 +2835,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique três cartas. Se esta carta estiver no seu estábulo no início do seu turno, você PODE escolher uma carta de unicórnio da pilha de descartes e colocá-la diretamente no seu estábulo.",
@@ -2796,8 +2849,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, descarte uma carta. Cada vez que você descartar uma carta, você pode escolher até dois outros jogadores. Cada um desses jogadores DEVE descartar uma carta também.",
@@ -2810,8 +2863,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Quando uma carta de unicórnio do estábulo de qualquer outro jogador for sacrificada ou retornada para a mão dele, você pode descartar até duas cartas. Se você descartar uma carta, adicione aquela carta a sua mão instantaneamente. Se você descartar duas cartas, traga aquela carta diretamente para o seu estábulo.",
@@ -2824,8 +2877,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta de encantamento e então destruir duas cartas de unicórnio.",
@@ -2838,8 +2891,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Quando qualquer outro jogador jogar uma carta de encantamento no estábulo dele, você PODE descartar uma carta. Se fizer isso, procure na pilha de compras por uma carta de maldição e coloque-a diretamente no estábulo daquele jogador. Embaralhe a pilha de compras.",
@@ -2852,8 +2905,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, descarte duas cartas. Se esta carta estiver no seu estábulo no início do seu turno, cada outro jogador DEVE descartar uma carta.",
@@ -2866,8 +2919,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta de unicórnio. Se fizer isso, traga uma carta de unicórnio da pilha de descartes diretamente para o seu estábulo.",
@@ -2880,8 +2933,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seuturno, você PODE destruir uma carta de encantamento. Se fizer isso, pule sua fase de ação.",
@@ -2894,8 +2947,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você PODE destruir uma carta de unicórnio. Se Unicorn of Betrayal for destruída por uma carta de qualquer outro jogador, aquele jogador PODE roubá-la ao invés disso.",
@@ -2908,8 +2961,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Descarte uma carta e então escolha duas cartas da pilha de descartes. Adicione-as a sua mão.",
@@ -2922,8 +2975,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Descarte uma carta e então escolha uma carta da pilha de descartes e coloque-a diretamente no seu estábulo.",
@@ -2936,8 +2989,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta de mágica. Pare a ação daquela carta, coloque-a na sua mão e imediatamente jogue-a.",
@@ -2950,8 +3003,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar sacrificar uma carta. Pare o efeito de sacrifício e escolha qualquer jogador. Sacrifique ou destrua uma carta do estábulo do jogador escolhido.",
@@ -2964,8 +3017,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando um efeito for destruir uma carta de unicórnio. Escolha o alvo do efeito da destruição.",
@@ -2978,8 +3031,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar comprar uma carta. Pare a compra daquela carta. Aquele jogador DEVE descartar a carta instantaneamente.",
@@ -2992,8 +3045,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, diga um tipo de carta. Se esta carta estiver no seu estábulo no início do seu turno, você PODE trazer uma carta deste tipo da pilha de descartes diretamente para o seu estábulo e imediatamente pular a sua fase de fim de turno.",
@@ -3006,8 +3059,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "Chaos Base Deck",
+    card_edition: "Chaos Base Deck",
+    card_edition_br: "Chaos Jogo Base",
     card_effect: "",
     card_effect_br:
       "Cada vez que você jogar uma carta de unicórnio da sua mão, descarte uma carta.",
@@ -3020,190 +3073,255 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 214,
     card_name: "",
     card_name_br: "Baby Unicorn of Incest",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 215,
     card_name: "",
     card_name_br: "Bye Bye Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 216,
     card_name: "",
     card_name_br: "Cannibal Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 217,
     card_name: "",
     card_name_br: "Conjoined Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 218,
     card_name: "",
     card_name_br: "Dumpster Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 219,
     card_name: "",
     card_name_br: "Faceless Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 220,
     card_name: "",
     card_name_br: "Fucking Cute Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 221,
     card_name: "",
     card_name_br: "Fucking Ugly Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 222,
     card_name: "",
     card_name_br: "Pageant Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 223,
     card_name: "",
     card_name_br: "Shotgun Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 224,
     card_name: "",
     card_name_br: "Someone Else's Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 225,
     card_name: "",
     card_name_br: "Tasty Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
-    card_effect: "",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
+    card_effect:
+      "If this card would be sacrificed, destroyed, or returned to your hand, return it to the Nursery instead.",
     card_effect_br:
-      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria.",
+      "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a Berçario.",
     card_expansion: false,
     card_id: 226,
     card_name: "",
     card_name_br: "Upside Down Baby Unicorn",
-    card_type: "",
+    card_type: "Baby Unicorn",
     card_type_br: "Bebê Unicórnio",
+    card_extra:
+      "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
+    card_extra_br:
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3215,8 +3333,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3228,8 +3346,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3241,8 +3359,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3254,8 +3372,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3267,8 +3385,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3280,8 +3398,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_flavor: "",
     card_flavor_br: "",
     card_expansion: false,
@@ -3293,8 +3411,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       'Quando esta carta entra no seu estábulo, você pode procurar na pilha de compras por um "Twinkicorn". Coloque-o na sua mão e então embaralhe a pilha de compras.',
@@ -3307,8 +3425,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE roubar uma carta de unicórnio. No fim do seu turno, retorne-a para o seu dono.",
@@ -3321,8 +3439,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, cada jogador deve sacrificar uma carta de unicórnio.",
@@ -3335,8 +3453,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta de unicórnio básico. Se fizer isso, puxe uma carta da mão de qualquer outro jogador e adicione-a a sua mão.",
@@ -3349,8 +3467,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você PODE escolher uma carta da pilha de descartes e adicioná-la a sua mão.",
@@ -3363,8 +3481,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você PODE escolher qualquer outro jogador e olhar a mão dele. Escolha uma carta de unicórnio da mão daquele jogador e coloque-a na sua mão.",
@@ -3377,8 +3495,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Cartas de unicórnio bebê não podem entrar no estábulo de nenhum jogador.",
@@ -3391,8 +3509,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você pode escolher qualquer jogador. Aquele jogador DEVE descartar duas cartas.",
@@ -3405,8 +3523,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, roube uma carta de unicórnio bebê. Se essa carta deixar o seu estábulo, volte o bebê roubado para o seu dono.",
@@ -3419,8 +3537,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Esta carta conta por dois unicórnios. Você não pode jogar cartas de mágica.",
@@ -3433,8 +3551,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se uma das suas cartas de unicórnio for destruída, você PODE sacrificar esta carta ao invés disso.",
@@ -3447,8 +3565,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar sua mão. Se fizer isso, destrua uma carta de unicórnio.",
@@ -3461,8 +3579,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, roube uma carta de unicórnio. No fim do seu turno, volte a carta roubada para o estábulo do seu dono. Se esta carta for sacrificada ou destruída, volte-a para sua mão ao invés disso.",
@@ -3475,8 +3593,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta. Se fizer isso, traga uma carta de unicórnio bebê da enfermaria diretamente para o seu estábulo.",
@@ -3489,8 +3607,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, cada outro jogador DEVE descartar uma carta.",
@@ -3503,8 +3621,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você pode procurar na pilha de compras por uma carta de unicórnio e adicioná-la a sua mão. Embaralhe a pilha de compras.",
@@ -3517,8 +3635,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você pode escolher qualquer jogador. Aquele jogador DEVE descartar uma carta. Se esta carta for sacrificada ou destruida, retorne-a para a sua mão ao invés disso.",
@@ -3531,8 +3649,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, roube uma carta de unicórnio básico. Se esta carta deixar o seu estábulo, retorne a carta de unicórnio básico roubada para o seu dono.",
@@ -3545,8 +3663,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, escolha uma jogador e olhe a mão dele. Escolha uma carta de unicórnio da mão daquele jogador e a mova para a pilha de descartes.",
@@ -3559,8 +3677,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode move-la para o estábulo de qualquer outro jogador. Se fizer isso, roube uma carta de unicórnio do estábulo daquele jogador.",
@@ -3573,8 +3691,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta. Se fizer isso, destrua uma carta de unicórnio.",
@@ -3587,8 +3705,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, sacrifique todas as cartas de maldição.",
@@ -3601,8 +3719,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você pode retornar uma carta do estábulo de qualquer jogador para a mão dele.",
@@ -3615,8 +3733,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu estábulo, você pode olhar as próximas três cartas do topo da pilha de descartes e então colocá-las de volta na mesma ordem.",
@@ -3629,8 +3747,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Esta carta somente pode entrar em um estábulo se lá existir uma carta de unicórnio básico. Se esta carta estiver no seu estábulo no início do seu turno, você pode escolher qualquer jogador. Aquele jogador DEVE descartar uma carta.",
@@ -3643,8 +3761,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Esta carta conta por dois unicórnios. Você não pode jogar cartas de unicórnio básico.",
@@ -3657,8 +3775,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       'Quando esta carta entra no seu estábulo, você pode procurar na pilha de compras por um "Bear Daddy Unicorn". Adicione-o na sua mão e então embaralhe a pilha de compras.',
@@ -3671,8 +3789,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br: "Seu limite de cartas na mão aumenta em um.",
     card_expansion: false,
@@ -3684,8 +3802,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Quando esta carta entra no seu tabuleiro, você PODE descartar uma carta. Se fizer isso, traga uma carta de unicórnio bebê da enfermaria diretamente para seu estábulo.",
@@ -3698,8 +3816,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, mova uma carta de unicórnio do seu estábulo para o de outro jogador. No fim do seu turno, volte aquela carta de unicórnio para o seu estábulo.",
@@ -3712,8 +3830,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra e então descartar uma carta.",
@@ -3726,8 +3844,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br: "Roube uma carta de unicórnio bebê.",
     card_expansion: false,
@@ -3739,8 +3857,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Revele a carta do topo do baralho. Se ela for uma carta de unicórnio, coloque-a no seu estábulo e jogue mais um turno. Se ela for uma carta de maldição, descarte-a e sacrifique uma carta de unicórnio. Se não for nenhum dessas casos, coloque-a na sua mão.",
@@ -3753,8 +3871,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer outro jogador. Puxe duas cartas da mão daquele jogador e coloque-as na sua mão.",
@@ -3767,8 +3885,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Sacrifique ou destrua todas as cartas de encantamento do estábulo de qualquer jogador.",
@@ -3781,8 +3899,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer jogador. Aquele jogador DEVE descartar uma carta. Dê para qualquer jogador uma carta da sua mão e então destrua uma carta de unicórnio.",
@@ -3795,8 +3913,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer jogador e olhe a mão dele. Escolha uma carta da mão daquele jogador e coloque-a na sua mão.",
@@ -3809,8 +3927,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Destrua uma carta de unicórnio. Cada jogador DEVE descartar uma carta.",
@@ -3823,8 +3941,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Sacrifique ou destrua uma carta de encantamento ou maldição.",
@@ -3837,8 +3955,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Descarte duas cartas e então compre duas cartas. Jogue mais um turno.",
@@ -3851,8 +3969,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Descarte sua mão e então compre três cartas. Jogue mais um turno.",
@@ -3865,8 +3983,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Cada jogador DEVE sacrificar uma carta e descartar sua mão. Embaralhe a pilha de descartes junto com a pilha de compras. Distribua cinco cartas para cada jogador.",
@@ -3879,8 +3997,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Cada jogador DEVE retornar uma carta de unicórnio bebê do seu estábulo para a enfermaria.",
@@ -3893,8 +4011,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Escolha um jogador. Aquele jogador DEVE descartar três cartas ou sacrificar uma carta de unicórnio.",
@@ -3907,8 +4025,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Cada jogador DEVE descartar sua mão e comprar o mesmo número de cartas. Compre duas cartas adicionais.",
@@ -3921,8 +4039,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Sacrifique ou destrua todas as cartas de maldição do estábulo de qualquer jogador.",
@@ -3935,8 +4053,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Escolha qualquer jogador. Aquele jogador deverá pular o seu próximo turno.",
@@ -3949,8 +4067,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se você tiver mais do que três unicórnios no seu estábulo, compre uma quantidade de cartas igual ao número de unicórnios no seu estábulo menos três.",
@@ -3963,8 +4081,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes.",
@@ -3977,8 +4095,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes.",
@@ -3991,8 +4109,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes. O jogador negado DEVE descartar uma carta.",
@@ -4005,8 +4123,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes. Esta carta não pode ser negada.",
@@ -4019,8 +4137,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes.",
@@ -4033,8 +4151,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se um dos seus unicórnios forem sacrificados ou destruídos, você PODE sacrificar esta carta ao invés disso.",
@@ -4047,8 +4165,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE mover uma carta de unicórnio do estábulo de qualquer jogador para o estábulo de qualquer outro. Você não pode mover unicórnios para o seu próprio estábulo.",
@@ -4061,8 +4179,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE roubar uma carta de unicórnio. No fim do seu turno, retorne essa carta de unicórnio para o estábulo do jogador que você roubou.",
@@ -4075,8 +4193,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode escolher qualquer outro jogador. Pegue uma carta da mão do jogador escolhido e coloque-a na sua mão. Se você dizer isto, pule sua fase de compra.",
@@ -4089,8 +4207,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta. Se fizer isso, destrua uma carta.",
@@ -4103,8 +4221,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br: "Suas cartas de unicórnio não podem ser destruídas.",
     card_expansion: false,
@@ -4116,8 +4234,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, você pode jogar duas cartas durante sua fase de ação.",
@@ -4130,8 +4248,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Esta carta somente pode entrar em um estábulo se lá existir uma carta de unicórnio básico. Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra.",
@@ -4144,8 +4262,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno. você PODE comprar uma carta no fim do seu turno.",
@@ -4158,8 +4276,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Esta carta somente pode entrar em um estábulo se lá existir uma carta de unicórnio básico. Se esta carta estiver no seu estábulo no início do seu turno, você pode colocar uma carta de unicórnio básico da sua mão diretamente no seu estábulo.",
@@ -4172,8 +4290,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, descarte uma carta.",
@@ -4186,8 +4304,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Todas as suas cartas de unicórnio são consideradas cocô. Cartas que afetam cartas de unicórnio não afetam cocô.",
@@ -4200,8 +4318,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br: "Você não pode jogar cartas de encantamento.",
     card_expansion: false,
@@ -4213,8 +4331,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br: "Os efeitos das suas cartas de unicórnio não funcionam.",
     card_expansion: false,
@@ -4226,8 +4344,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, pule sua fase de compra ou sua fase de ação.",
@@ -4240,8 +4358,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br: "Seu limite de cartas na mão é três.",
     card_expansion: false,
@@ -4253,8 +4371,8 @@ const uuCards = [
     game: "Unstable Unicorns",
   },
   {
-    card_edition: "",
-    card_edition_br: "NSFW Base Deck",
+    card_edition: "NSFW Base Deck",
+    card_edition_br: "NSFW Jogo Base",
     card_effect: "",
     card_effect_br:
       "Se esta carta estiver no seu estábulo no início do seu turno, retorne uma carta de unicórnio do seu estábulo para a sua mão. Se a qualquer momento você não tiver cartas de unicórnio no seu estábulo, sacrifique esta carta.",

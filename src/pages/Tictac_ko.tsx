@@ -6,7 +6,7 @@ const TTKOPage = () => {
      <main>
         <TopBar/>
 
-        <p>TIC TAC K.OY PAGE</p>
+        <p>TIC TAC K.O PAGE</p>
 
      </main>
     )

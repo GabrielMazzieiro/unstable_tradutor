@@ -1,6 +1,7 @@
 import { TopBar } from "../components"
 import ShowCards from "../components/ShowCards"
-import uuCards from "../db/uu"
+import { uuCards } from "../db"
+
 
 const UUPage = () => {
 

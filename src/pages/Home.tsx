@@ -5,9 +5,10 @@ const Home = () => {
     <main>
       <TopBar/>
       <div>
-        <h1>Welcome to Unstable Tradutor!!</h1>
-        <p>This webpage was made to help people play 'unstable games'`s games</p>
-        <p>Pick your game!</p>
+        <h1>Bem vindo ao Unstable Tradutor!</h1>
+        <p>Esse projeto foi desenvolvido como forma de estudo de programação e com o intuito de ajudar pessoas que não dominam o inglês à jogar os jogos da Unstable Games</p>
+        <p>Se quiser dar uma força ou simplesmente ver o projeto, acesse o github pelo link ali em cima!</p>
+        <p>Escolha seu jogo!!</p>
       </div>
       <GameCards/>
     </main>
