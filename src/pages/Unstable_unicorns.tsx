@@ -1,4 +1,5 @@
-import { TopBar } from "../components"
+import { useState } from "react"
+import { CardFilter, TopBar } from "../components"
 import ShowCards from "../components/ShowCards"
 import { uuCards } from "../db"
 
@@ -13,14 +14,16 @@ const UUPage = () => {
     'Unicórnio Supremo',
     'Mágica',
     'Bebê Unicórnio',
-    'Unicórnio Mágico']
+    'Unicórnio Mágico'
+    ]
+
+    const [editions, setEditions] = useState<string[]>([])
 
     return (
      <main>
         <TopBar/>
-        <p>UNSTABLE UNICORNS PAGE</p>
-        <ShowCards cards={uuCards} titles={title_list}/>
-
+        <CardFilter cards={uuCards} setEditions={setEditions}/>
+        <ShowCards cards={uuCards} titles={title_list} editions={editions}/>
 
      </main>
     )
