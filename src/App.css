@@ -49,6 +49,7 @@
 body {
   font-size: 2rem;
   background-color: var(--color-dark);
+  /* background-color: #fff; */
   color: var(--color-light);
 }
 
@@ -59,8 +60,9 @@ main {
   gap: 2rem;
   align-items: center;
   padding: 0 15%;
-  /* height: 80svh; */
+  /* height: 100%; */
   width: 100%;
+  /* background-color:#fff; */
 }
 .col {
   display: flex;
@@ -111,4 +113,51 @@ main {
 
 .title {
   font-size:xx-large
+}
+
+.game-bg{
+  width: 100%;
+  /* height: 300px; */
+}
+
+.navbar-brand{
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  padding-bottom: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.navbar-itens{
+  padding-left: 0.5rem;
+}
+
+.navbar {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.card-row{
+  width:100%;
+}
+
+.gamefilter {
+  /* position */
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+
+  /* dimensions */
+  width: 100%;
+
+  /* color */
+  color: #fff;
+  
+}
+.form-check{
+  display: flex;
+  align-items: center;
+}
+.form-check-label{
+  padding-left: 1rem;
 }
