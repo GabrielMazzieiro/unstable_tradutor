@@ -494,9 +494,9 @@ export default function getCardImage(cardID: number, cardGame: string) {
       case 98:
         return require("../assets/unstable_unicorns/control_base_deck/baby_unicorn/baby_nightmare_unicorn.png");
       case 99:
-        return require("../assets/unstable_unicorns/control_base_deck/baby_unicorn/baby_pegasuscorn.png");
+        return require("../assets/unstable_unicorns/control_base_deck/baby_unicorn/baby_pegacorn.png");
       case 100:
-        return require("../assets/unstable_unicorns/control_base_deck/baby_unicorn/baby_penguicorn.png");
+        return require("../assets/unstable_unicorns/control_base_deck/baby_unicorn/baby_penguincorn.png");
       case 101:
         return require("../assets/unstable_unicorns/control_base_deck/baby_unicorn/baby_slothicorn.png");
       case 102:

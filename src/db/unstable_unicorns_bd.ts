@@ -1751,7 +1751,7 @@ const uuCards = [
     card_expansion: false,
     card_id: 114,
     card_name: "Elusive Oceloticorn",
-    card_name_br: "Jaguatiricórnio Ardilosa",
+    card_name_br: "Jaguatiricórnia Ardilosa",
     card_type: "Ultimate Unicorn",
     card_type_br: "Unicórnio Supremo",
     game: "Unstable Unicorns",
