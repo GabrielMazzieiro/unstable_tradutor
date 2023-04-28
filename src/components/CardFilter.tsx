@@ -1,4 +1,4 @@
-import React, { Dispatch, SetStateAction } from "react";
+import React, { Dispatch, SetStateAction, useEffect } from "react";
 import { ICardData } from "./ShowCards.types";
 
 interface ICardFilter{
@@ -33,13 +33,18 @@ const CardFilter = ({base_editions, expansions, setEditions, search, setSearch, 
 
     function handleSearchbox(event: { target: { value: React.SetStateAction<string>; }; }){
         setSearch(event.target.value)
-        if (search !== ''){
-        const filteredData = cards.filter((item) => {
-            return Object.values(item).join('').toLowerCase().includes(search.toLowerCase())
-        })
-        setFilteredResults(filteredData)}
     }
-    
+
+    if (search !== ''){
+        useEffect(() => {
+            setFilteredResults(
+                cards.filter((item) => {
+                return Object.values(item).join('').toLowerCase().includes(search.toLowerCase())
+                }));
+            },[search, cards])
+
+        }
+
     return (
         <>
         <form className="gamefilter d-flex" role="search">
@@ -76,7 +81,8 @@ const CardFilter = ({base_editions, expansions, setEditions, search, setSearch, 
         </form>
 
         <form className="d-flex" role="search">
-                <input className="form-control me-2" type="search" onChange={handleSearchbox} placeholder="Nome ou Palavra Chave" aria-label="Search"/>
+                <p>Buscar por Nome ou Palavra Chave</p>
+                <input className="form-control me-2" type="search" onChange={handleSearchbox} placeholder="Pelo menos 3 caracteres" aria-label="Search"/>
                 <button className="btn btn-outline-success" type="button">Procurar</button>
         </form>
         </>

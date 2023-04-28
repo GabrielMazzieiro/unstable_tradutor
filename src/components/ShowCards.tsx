@@ -24,7 +24,7 @@ const ShowCards = ({cards, titles, editions, search, filteredResults}:ShowCardPr
                     <div><h1 className="title"> {title} </h1></div>
                     
                     <div className="row gy-3 card-row">
-                        {search.length > 1 ? (
+                        {search.length > 2 ? (
                             filteredResults.map((item) => {
                                 if (item.card_type_br == title){
                                     if (editions.length === 0){
