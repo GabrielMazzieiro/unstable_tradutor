@@ -1344,13 +1344,13 @@ const uuCards = [
   {
     card_edition: "Original",
     card_edition_br: "Original",
-    card_effect: "",
+    card_effect: "Bring a Unicorn card from the discard pile into your Stable.",
     card_effect_br:
       "Traga uma carta de unicórnio da pilha de descartes para o seu Estábulo.",
     card_expansion: false,
     card_id: 89,
-    card_name: "",
-    card_name_br: "Kiss of Life",
+    card_name: "Kiss of Life",
+    card_name_br: "Beijo da Vida",
     card_type: "Magic",
     card_type_br: "Mágica",
     game: "Unstable Unicorns",
@@ -1358,13 +1358,14 @@ const uuCards = [
   {
     card_edition: "Original",
     card_edition_br: "Original",
-    card_effect: "",
+    card_effect:
+      "If this card is in your Stable at the beginning of your turn, you may DISCARD a card, then DRAW a card.",
     card_effect_br:
       "Se esta carta estiver no seu Estábulo no início do seu turno, você PODE descartar uma carta e depois comprar uma carta.",
     card_expansion: false,
     card_id: 90,
-    card_name: "",
-    card_name_br: "Claw Machine",
+    card_name: "Claw Machine",
+    card_name_br: "Maquina de Garra",
     card_type: "",
     card_type_br: "Melhoria",
     game: "Unstable Unicorns",
@@ -1372,13 +1373,14 @@ const uuCards = [
   {
     card_edition: "Original",
     card_edition_br: "Original",
-    card_effect: "",
+    card_effect:
+      "If this card is in your Stable at the beginning of your turn, you may DISCARD 2 cards, then DESTROY a Unicorn card.",
     card_effect_br:
       "Se esta carta estiver no seu Estábulo no início do seu turno, você PODE descartar duas cartas e depois destruir uma carta de unicórnio.",
     card_expansion: false,
     card_id: 91,
-    card_name: "",
-    card_name_br: "Stable Artillery",
+    card_name: "Stable Artillery",
+    card_name_br: "Estábulo Artilharia",
     card_type: "",
     card_type_br: "Melhoria",
     game: "Unstable Unicorns",
@@ -1386,13 +1388,14 @@ const uuCards = [
   {
     card_edition: "Original",
     card_edition_br: "Original",
-    card_effect: "",
+    card_effect:
+      "If this card is in your Stable at the beginning of your turn, you may SACRIFICE a card, then DRAW 2 cards.",
     card_effect_br:
       "Se esta carta estiver no seu Estábulo no início do seu turno, você PODE sacrificar uma carta e depois comprar duas cartas.",
     card_expansion: false,
     card_id: 92,
-    card_name: "",
-    card_name_br: "Caffeine Overload",
+    card_name: "Caffeine Overload",
+    card_name_br: "Sobrecarga de Cafeína",
     card_type: "",
     card_type_br: "Melhoria",
     game: "Unstable Unicorns",
@@ -1400,13 +1403,14 @@ const uuCards = [
   {
     card_edition: "Original",
     card_edition_br: "Original",
-    card_effect: "",
+    card_effect:
+      "If this card is in your Stable at the beginning of your turn, you may DISCARD 3 cards, then STEAL a Unicorn card.",
     card_effect_br:
       "Se esta carta estiver no seu Estábulo no início do seu turno, você PODE descartar três cartas e depois roubar uma carta de unicórnio.",
     card_expansion: false,
     card_id: 93,
-    card_name: "",
-    card_name_br: "Rainbow Lasso",
+    card_name: "Rainbow Lasso",
+    card_name_br: "Laço Arco-Iris",
     card_type: "",
     card_type_br: "Melhoria",
     game: "Unstable Unicorns",
