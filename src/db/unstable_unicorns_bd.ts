@@ -15,7 +15,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -34,7 +34,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -53,7 +53,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -72,7 +72,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -91,7 +91,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -110,7 +110,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -129,7 +129,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -148,7 +148,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -167,7 +167,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -186,7 +186,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -205,7 +205,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -224,7 +224,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -243,7 +243,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
 
@@ -1431,7 +1431,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1450,7 +1450,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1469,7 +1469,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1488,7 +1488,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1507,7 +1507,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1526,7 +1526,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1545,7 +1545,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1564,7 +1564,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1583,7 +1583,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -1602,7 +1602,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3157,7 +3157,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3176,7 +3176,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3195,7 +3195,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3214,7 +3214,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3233,7 +3233,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3252,7 +3252,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3271,7 +3271,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3290,7 +3290,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3309,7 +3309,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3328,7 +3328,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3347,7 +3347,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3366,7 +3366,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
@@ -3385,7 +3385,7 @@ const uuCards = [
     card_extra:
       "This card is restricted to either the Nursery or a Stable; Baby Unicorn Cards can never be in a player's hand, the Discard Pile, or the Deck; If a Baby Unicorn Card would be moved to a player's hand, the Discard Pile, or the Deck it is returned to the Nursery instead.",
     card_extra_br:
-      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio fosse movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne para o Berçario.",
+      "Esta carta é restrita ao Berçario ou ao Estábulo; Cartas de Bebê Unicornio nunca podem estar na mão de um jogador, na Pilha de Descarte ou no Baralho; Se uma Carta de Bebê Unicornio for movida para a mão de um jogador, para a Pilha de Descarte ou para o Baralho, ao invés disso, retorne-a para o Berçario.",
     game: "Unstable Unicorns",
   },
   {
