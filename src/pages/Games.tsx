@@ -34,11 +34,11 @@ const GamePage = ({game}: IGamePage) => {
         if (!title_list.includes(element.card_type_br)) {
             title_list.push(element.card_type_br)
     }
-        if (element.card_expansion == false && !base_editions.includes(element.card_edition)){
+        if (element.card_expansion === false && !base_editions.includes(element.card_edition)){
         base_editions.push(element.card_edition)
     } 
-        if (element.card_expansion == true && !base_editions.includes(element.card_edition)){
-        base_editions.push(element.card_edition)
+        if (element.card_expansion === true && !expansions.includes(element.card_edition)){
+        expansions.push(element.card_edition)
     }
     }); 
 
