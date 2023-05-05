@@ -1658,7 +1658,7 @@ const htsCards = [
   // ========================================================================================================================
 
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Once per turn on each player's turn, you may choose any player's roll. -1 to that roll.",
@@ -1675,7 +1675,7 @@ const htsCards = [
     game: "Here To Slay",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Each time you roll, +1 to your roll for each Item card equipped to a Hero card in your Party.",
@@ -1692,7 +1692,7 @@ const htsCards = [
     game: "Here To Slay",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect: "Each time any player sacrifices a card, DRAW a card.",
     card_effect_br:
@@ -1712,7 +1712,7 @@ const htsCards = [
     game: "Here To Slay",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Once per turn on your turn, you may DRAW a card without spending an action point.",
@@ -1733,7 +1733,7 @@ const htsCards = [
     game: "Here To Slay",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "8- ATTACK a Monster card immediately. (You must still meet its Party requirement.)",
@@ -1750,7 +1750,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "6- Look at another player's hand. Choose a Hero card from their hand (if they have one) and bring it into your Party.",
@@ -1767,7 +1767,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "7- SACRIFICE a Hero card, then DRAW cards until you have 7 cards in your hand.",
@@ -1784,7 +1784,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect: "7- You may play up to 2 Magic cards immediately.",
     card_effect_br: "7- Você pode jogar até 2 Cartas Mágicas imediatamente.",
@@ -1799,7 +1799,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "7- SACRIFICE a Hero card. +5 or -5 to each of your rolls until your next turn.",
@@ -1816,7 +1816,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "5- Search the discard pile for a Hero card and add it to your hand, then play it immediately",
@@ -1833,7 +1833,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "7- Until your next turn, if a Hero card in your Party would be sacrificed or destroyed, return it to your hand instead.",
@@ -1850,7 +1850,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "8- No other player can play Modifier cards until the end of your turn.",
@@ -1867,7 +1867,7 @@ const htsCards = [
     card_class_br: "Druida",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_extra: "Two Item cards allowed to be attached to this Hero.",
     card_extra_br: "Este Herói pode equipar 2 cartas de Item.",
@@ -1884,7 +1884,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "8+ Choose any player. Return all equipped Item cards in that player's Party to your hand.",
@@ -1901,7 +1901,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_extra: "Two Item cards allowed to be attached to this Hero.",
     card_extra_br: "Este Herói pode equipar 2 cartas de Item.",
@@ -1920,7 +1920,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "9+ DRAW a card for each Monster card in each other player's Party.",
@@ -1937,7 +1937,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_extra: "Two Item cards allowed to be attached to this Hero.",
     card_extra_br: "Este Herói pode equipar 2 cartas de Item.",
@@ -1956,7 +1956,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "6+ For the rest of your turn, if you SACRIFICE or DESTROY a Hero card, you may search the discard pile for a Hero card and add it to your hand.",
@@ -1973,7 +1973,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_extra: "Two Item cards allowed to be attached to this Hero.",
     card_extra_br: "Este Herói pode equipar 2 cartas de Item.",
@@ -1991,7 +1991,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "5+ For each other Hero card in your party, +1 to all of your rolls until the end of your turn.",
@@ -2008,7 +2008,7 @@ const htsCards = [
     card_class_br: "Guerreiro",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "You may roll to use the equipped Hero card's effect more than once per turn, at a cost of one action point for each roll to use.",
@@ -2025,7 +2025,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "The equipped Hero card is considered a Druid instead of its original class.",
@@ -2042,7 +2042,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Each time you roll to use the equipped Hero card's effect, +4 to your roll.",
@@ -2059,7 +2059,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "If you unsuccessfully roll to use the equipped Herocard's effect. you may spend an extra action point this turn.",
@@ -2076,7 +2076,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "The equipped Hero card is considered a Warrior instead of its original class.",
@@ -2093,7 +2093,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "If another Hero card in your Party is stolen, move the equipped Hero card to the Party of the player who stole it as well.",
@@ -2110,7 +2110,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "If any Hero card in your Party is sacrificed or destroyed. SACRIFICE the equipped Hero card.",
@@ -2127,7 +2127,7 @@ const htsCards = [
     card_class_br: "Item",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Play this card after any player (including you) rolls the dice. +1 or -1 to that roll. DRAW 2 cards.",
@@ -2144,7 +2144,7 @@ const htsCards = [
     card_class_br: "Modificadores",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Play this card after any player (including you) rolls the dice. +2 or -1 to that roll. DRAW a card.",
@@ -2161,7 +2161,7 @@ const htsCards = [
     card_class_br: "Modificadores",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Play this card after any player (including you) rolls the dice. +4 to that roll. If the roll is modified above 12, DRAW a card.",
@@ -2178,7 +2178,7 @@ const htsCards = [
     card_class_br: "Modificadores",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Play this card after any player (including you) rolls the dice. -4 to that roll. If the roll is modified below 2, choose a card from the discard pile and add it to your hand.",
@@ -2195,7 +2195,7 @@ const htsCards = [
     card_class_br: "Modificadores",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "Move all face-up Monster cards to the bottom of the Monster deck and flip the top 3 cards from the Monster deck face up. You may spend an extra action point this turn.",
@@ -2212,7 +2212,7 @@ const htsCards = [
     card_class_br: "Mágica",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "DISCARD every card in your hand (if you have any) and DRAW 4 cards.",
@@ -2229,7 +2229,7 @@ const htsCards = [
     card_class_br: "Mágica",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "You may play this card when another player attempts to play a Hero, Item, or Magic card. CHALLENGE that card. +3 to your roll.",
@@ -2244,12 +2244,13 @@ const htsCards = [
     game: "Here To Slay",
     card_class: "Challenge",
     card_class_br: "Desafio",
-    card_extra: "You need to have a Druid Hero in your Party to use this card",
-    card_extra_br:
+    card_requirements:
+      "You need to have a Druid Hero in your Party to use this card",
+    card_requirements_br:
       "Você precisa ter um Herói Druida no seu Grupo para jogar esta carta.",
   },
   {
-    card_edition: "Warrior & Druids Expansion",
+    card_edition: "Warrior & Druids",
     card_edition_br: "Expansão Guerreiro e Druida",
     card_effect:
       "You may play this card when another player attempts to play a Hero, Item, or Magic card. CHALLENGE that card. +3 to your roll.",
@@ -2264,9 +2265,9 @@ const htsCards = [
     game: "Here To Slay",
     card_class: "Challenge",
     card_class_br: "Desafio",
-    card_extra:
+    card_requirements:
       "You need to have a Warrior Hero in your Party to use this card",
-    card_extra_br:
+    card_requirements_br:
       "Você precisa ter um Herói Guerreiro no seu Grupo para jogar esta carta.",
   },
 
@@ -2521,8 +2522,8 @@ const htsCards = [
     card_requirements_br: "1 Herói Qualquer",
     slay_conditions_lose: "6- SACRIFICE a Hero Card",
     slay_conditions_lose_br: "6- SACRIFIQUE uma Carta de Herói",
-    slay_conditions_win: "7+ SLAY this Monster Card",
-    slay_conditions_win_br: "7+ DESTRUA essa Carta de Monstro",
+    slay_conditions_win: "10+ SLAY this Monster Card",
+    slay_conditions_win_br: "10+ DESTRUA essa Carta de Monstro",
     game: "Here To Slay",
     card_extra: "For each additional Hero card in your Party, +1 to your roll.",
     card_extra_br:

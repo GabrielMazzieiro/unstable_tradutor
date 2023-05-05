@@ -60,9 +60,7 @@ main {
   gap: 2rem;
   align-items: center;
   padding: 0 15%;
-  /* height: 100%; */
   width: 100%;
-  /* background-color:#fff; */
 }
 .col {
   display: flex;
@@ -111,6 +109,8 @@ main {
   padding-bottom: 0.5rem;
 }
 
+/************************** GAME INFOS **************************/
+
 .title {
   font-size:xx-large
 }
@@ -120,26 +120,11 @@ main {
   /* height: 300px; */
 }
 
-.navbar-brand{
-  display: flex;
-  flex-direction: row;
-  align-items:center;
-  padding-bottom: 0.5rem;
-  padding-left: 1.5rem;
-}
-
-.navbar-itens{
-  padding-left: 0.5rem;
-}
-
-.navbar {
-  width: 100%;
-  justify-content: space-between;
-}
-
 .card-row{
   width:100%;
 }
+
+/************************** FILTERS **************************/
 
 .gamefilter {
   /* position */
@@ -160,4 +145,23 @@ main {
 }
 .form-check-label{
   padding-left: 1rem;
+}
+
+/************************** NAVBAR **************************/
+
+.navbar-brand{
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  padding-bottom: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.navbar-itens{
+  padding-left: 0.5rem;
+}
+
+.navbar {
+  width: 100%;
+  justify-content: space-between;
 }

@@ -81,8 +81,7 @@ const CardFilter = ({base_editions, expansions, setEditions, search, setSearch, 
         </form>
 
         <form className="d-flex" role="search">
-                <p>Buscar por Nome ou Palavra Chave</p>
-                <input className="form-control me-2" type="search" onChange={handleSearchbox} placeholder="Pelo menos 3 caracteres" aria-label="Search"/>
+                <input className="form-control me-4" type="search" onChange={handleSearchbox} placeholder="Pelo menos 3 caracteres" aria-label="Search"/>
                 <button className="btn btn-outline-success" type="button">Procurar</button>
         </form>
         </>
