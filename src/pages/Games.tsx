@@ -30,10 +30,8 @@ const GamePage = ({game}: IGamePage) => {
     const base_editions: string[] = []
     const expansions: string[] = []
 
+    // create base_editions and expansions array
     gameData.cards.map(element => {
-        if (!title_list.includes(element.card_type_br)) {
-            title_list.push(element.card_type_br)
-    }
         if (element.card_expansion === false && !base_editions.includes(element.card_edition)){
         base_editions.push(element.card_edition)
     } 
@@ -41,6 +39,30 @@ const GamePage = ({game}: IGamePage) => {
         expansions.push(element.card_edition)
     }
     }); 
+
+
+    // Create dynamic title_list depending on filters/expansions
+    if (editions.length !== 0) {
+        gameData.cards.map((item) => {
+            editions.map((edition) => {
+                if (!title_list.includes(item.card_type_br) && item.card_edition === edition){
+                    title_list.push(item.card_type_br)
+            }
+            })
+        })
+    } else if (search.length > 2 ){
+        filteredResults.map((item) => {
+            if (!title_list.includes(item.card_type_br)) {
+                title_list.push(item.card_type_br)
+        }
+        })
+    } else {
+        gameData.cards.map((item) => {
+            if (!title_list.includes(item.card_type_br)){
+                title_list.push(item.card_type_br)
+        }
+        })
+    }
 
     return (
      <main>
