@@ -20,4 +20,6 @@ export interface ICardData {
   slay_conditions_lose_br?: string;
   slay_conditions_win?: string;
   slay_conditions_win_br?: string;
+  card_requirements?: string;
+  card_requirements_br?: string;
 }

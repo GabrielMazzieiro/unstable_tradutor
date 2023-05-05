@@ -25,6 +25,7 @@ const CardModal = ({data}:CardModalProps) => {
                                             <p>Name: {data.card_name}</p>
                                             <p>Type: {data.card_type}</p>
                                             {data.card_class && <p>Class: {data.card_class}</p>}
+                                            {data.card_requirements && <p>Requirement: {data.card_requirements}</p>}
                                             {data.slay_conditions_lose && <p>Lose Conditions: {data.slay_conditions_lose}</p>}
                                             {data.slay_conditions_win && <p>Win Conditions: {data.slay_conditions_win}</p>}
                                             {data.card_effect && <p>Effect: {data.card_effect}</p>}
@@ -36,6 +37,7 @@ const CardModal = ({data}:CardModalProps) => {
                                             <p>Nome: {data.card_name_br}</p>
                                             <p>Tipo: {data.card_type_br}</p>
                                             {data.card_class_br && <p>Classe: {data.card_class_br}</p>}
+                                            {data.card_requirements_br && <p>Requisitos: {data.card_requirements_br}</p>}
                                             {data.slay_conditions_lose_br && <p>Condição para Derrota: {data.slay_conditions_lose_br}</p>}
                                             {data.slay_conditions_win_br && <p>Condição para Vitória: {data.slay_conditions_win_br}</p>}
                                             {data.card_effect_br && <p>Efeito: {data.card_effect_br}</p>}
