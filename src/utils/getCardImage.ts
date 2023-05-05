@@ -362,6 +362,32 @@ export default function getCardImage(cardID: number, cardGame: string) {
         return require("../assets/here_to_slay/warrior_and_druids/druid_challenge.png");
       case 130:
         return require("../assets/here_to_slay/warrior_and_druids/warrior_challenge.png");
+      case 131:
+        return require("../assets/here_to_slay/monsters/ancient_megashark.png");
+      case 132:
+        return require("../assets/here_to_slay/monsters/clawed_nightmare.png");
+      case 133:
+        return require("../assets/here_to_slay/monsters/dragon_wasp.png");
+      case 134:
+        return require("../assets/here_to_slay/monsters/goretelodont.png");
+      case 135:
+        return require("../assets/here_to_slay/monsters/lumbering_demon.png");
+      case 136:
+        return require("../assets/here_to_slay/monsters/possessed_plush.png");
+      case 137:
+        return require("../assets/here_to_slay/monsters/reef_ripper.png");
+      case 138:
+        return require("../assets/here_to_slay/monsters/saffyre_phoenix.png");
+      case 139:
+        return require("../assets/here_to_slay/monsters/scavenger_griffin.png");
+      case 140:
+        return require("../assets/here_to_slay/monsters/venomous_gemini.png");
+      case 141:
+        return require("../assets/here_to_slay/monsters/voltclaw_lion.png");
+      case 142:
+        return require("../assets/here_to_slay/monsters/wandering_behemoth.png");
+      case 143:
+        return require("../assets/here_to_slay/monsters/wicked_sea_serpent.png");
     }
   } else if (cardGame == "Unstable Unicorns") {
     switch (cardID) {
