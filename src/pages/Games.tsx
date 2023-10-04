@@ -79,11 +79,11 @@ const GamePage = ({game}: IGamePage) => {
         />
 
         <ShowCards 
-        cards={gameData.cards} 
-        titles={title_list} 
-        editions={editions}
-        search={search}
-        filteredResults={filteredResults}
+            cards={gameData.cards} 
+            titles={title_list} 
+            editions={editions}
+            search={search}
+            filteredResults={filteredResults}
         />
 
      </main>

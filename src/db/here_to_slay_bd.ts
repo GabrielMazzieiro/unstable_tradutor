@@ -1821,7 +1821,7 @@ const htsCards = [
     card_effect:
       "5- Search the discard pile for a Hero card and add it to your hand, then play it immediately",
     card_effect_br:
-      "5- Procure na pila de descarte por uma Carta de Herói e adicione-a na sua mão, depois jogue-a imediatamente.",
+      "5- Procure na pilha de descarte por uma Carta de Herói e adicione-a na sua mão, depois jogue-a imediatamente.",
     card_expansion: true,
     card_id: 105,
     card_name: "Magus Moose",
